@@ -1,0 +1,62 @@
+{
+  "Exp_A_All_Features": {
+    "num_features": 125,
+    "accuracy": 0.9365517241379311,
+    "macro_f1": 0.9299529229563536,
+    "weighted_f1": 0.9365777408607058,
+    "per_class_f1": {
+      "medication_associated": 0.9425287356321839,
+      "disease_progression": 0.9569160997732427,
+      "other_cause": 0.9355742296918768,
+      "uncertain": 0.8847926267281107
+    }
+  },
+  "Exp_B_Cognitive_Trajectory_Only": {
+    "num_features": 58,
+    "accuracy": 0.92,
+    "macro_f1": 0.9136316576192328,
+    "weighted_f1": 0.9199414649123238,
+    "per_class_f1": {
+      "medication_associated": 0.9153318077803204,
+      "disease_progression": 0.9523809523809523,
+      "other_cause": 0.9152542372881356,
+      "uncertain": 0.8715596330275229
+    }
+  },
+  "Exp_C_Remove_Drug_Knowledge": {
+    "num_features": 112,
+    "accuracy": 0.9365517241379311,
+    "macro_f1": 0.9306242243100145,
+    "weighted_f1": 0.9366041876050226,
+    "per_class_f1": {
+      "medication_associated": 0.9422632794457275,
+      "disease_progression": 0.9547511312217195,
+      "other_cause": 0.9355742296918768,
+      "uncertain": 0.8899082568807339
+    }
+  },
+  "Exp_D_Remove_Clinical_Events": {
+    "num_features": 106,
+    "accuracy": 0.9241379310344827,
+    "macro_f1": 0.9182619032241078,
+    "weighted_f1": 0.9239128555364909,
+    "per_class_f1": {
+      "medication_associated": 0.9220183486238532,
+      "disease_progression": 0.9547511312217195,
+      "other_cause": 0.9136490250696379,
+      "uncertain": 0.8826291079812206
+    }
+  },
+  "Exp_E_Cognitive_Plus_Medication": {
+    "num_features": 81,
+    "accuracy": 0.9172413793103448,
+    "macro_f1": 0.90873065523232,
+    "weighted_f1": 0.9170247326220625,
+    "per_class_f1": {
+      "medication_associated": 0.9220183486238532,
+      "disease_progression": 0.9525959367945824,
+      "other_cause": 0.9044943820224719,
+      "uncertain": 0.8558139534883721
+    }
+  }
+}

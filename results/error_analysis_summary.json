@@ -1,0 +1,30 @@
+{
+  "total_test_cases": 718,
+  "total_misclassified": 55,
+  "error_rate": 0.0766,
+  "med_vs_prog_confusion_count": 2,
+  "uncertain_error_count": 16,
+  "other_cause_error_count": 13,
+  "representative_misclassified_case_ids": [
+    "C0048",
+    "C0056",
+    "C0061",
+    "C0217",
+    "C0239",
+    "C0292",
+    "C0302",
+    "C0477",
+    "C0537",
+    "C0545",
+    "C0598",
+    "C0637",
+    "C0756",
+    "C0772",
+    "C1159",
+    "C1214",
+    "C1318",
+    "C1319",
+    "C1401",
+    "C1405"
+  ]
+}

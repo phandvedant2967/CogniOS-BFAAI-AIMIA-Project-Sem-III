@@ -1,0 +1,70 @@
+# ── Secrets & environment ────────────────────────────────────────────────────
+.env
+.env.*
+*.secret
+secrets/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# ── Python cache & bytecode ──────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# ── Virtual environments ─────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+ENV/
+virtualenv/
+.virtualenv/
+pipenv/
+
+# ── Distribution / packaging ─────────────────────────────────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+.eggs/
+
+# ── Testing & coverage ───────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# ── IDE / editor artifacts ────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── Temporary / runtime databases created at runtime ─────────────────────────
+# Exclude only the runtime app database (auto-created on first run).
+# Synthetic EHR databases in data/ ARE included (they are source data).
+data/cognios_app.db
+
+# ── Archive / compressed files ────────────────────────────────────────────────
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+*.rar
+*.7z
+
+# ── OS & temp files ──────────────────────────────────────────────────────────
+*.tmp
+*.bak
+*.log

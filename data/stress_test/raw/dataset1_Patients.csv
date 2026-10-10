@@ -1,0 +1,1201 @@
+patient_id,age,sex,primary_diagnosis,diagnosis_date,disease_stage,comorbidities,enrollment_date
+ST_P0001,72,Male,Alzheimer's Disease,2018-06-27,Mild,,2021-03-20
+ST_P0002,70,Male,Lewy Body Dementia,2020-02-22,Moderate,,2021-02-12
+ST_P0003,70,Female,Lewy Body Dementia,2020-03-03,Mild,Type 2 Diabetes; Hypertension,2021-06-08
+ST_P0004,63,Female,Lewy Body Dementia,2018-08-17,Severe,Hypertension,2021-05-29
+ST_P0005,72,Female,Frontotemporal Dementia,2019-05-04,Mild,Depression; Hypertension,2021-02-21
+ST_P0006,76,Male,Lewy Body Dementia,2018-04-22,Moderate,Osteoarthritis; Hypertension,2021-03-04
+ST_P0007,75,Female,Mild Cognitive Impairment,2020-06-11,Mild,Depression,2021-05-02
+ST_P0008,90,Male,Mild Cognitive Impairment,2017-06-06,Moderate,Type 2 Diabetes; Dyslipidemia,2021-05-09
+ST_P0009,65,Male,Alzheimer's Disease,2019-11-20,Mild,Osteoarthritis; Hypertension,2021-05-27
+ST_P0010,79,Female,Alzheimer's Disease,2017-09-09,Moderate,Depression; Osteoarthritis,2021-04-11
+ST_P0011,87,Male,Vascular Dementia,2019-05-26,Severe,Type 2 Diabetes,2021-04-06
+ST_P0012,75,Male,Mild Cognitive Impairment,2018-08-06,Mild,,2021-01-31
+ST_P0013,76,Male,Lewy Body Dementia,2017-04-26,Mild,,2021-04-27
+ST_P0014,72,Male,Alzheimer's Disease,2018-01-02,Moderate,Osteoarthritis; Type 2 Diabetes,2021-02-25
+ST_P0015,73,Male,Frontotemporal Dementia,2020-03-14,Moderate,Type 2 Diabetes; Dyslipidemia,2021-01-19
+ST_P0016,83,Female,Frontotemporal Dementia,2019-10-10,Moderate,Depression,2021-05-17
+ST_P0017,72,Female,Alzheimer's Disease,2020-05-20,Moderate,Dyslipidemia; Hypertension,2021-06-04
+ST_P0018,78,Female,Vascular Dementia,2018-09-15,Mild,Hypertension; Osteoarthritis,2021-01-14
+ST_P0019,83,Male,Alzheimer's Disease,2017-04-21,Severe,,2021-03-27
+ST_P0020,63,Male,Frontotemporal Dementia,2020-03-23,Severe,,2021-03-23
+ST_P0021,67,Male,Lewy Body Dementia,2017-03-13,Severe,Type 2 Diabetes; Osteoarthritis,2021-03-21
+ST_P0022,88,Female,Mild Cognitive Impairment,2017-05-05,Mild,Osteoarthritis; Depression,2021-02-15
+ST_P0023,73,Female,Mild Cognitive Impairment,2019-04-14,Moderate,Osteoarthritis,2021-01-13
+ST_P0024,87,Male,Vascular Dementia,2017-07-24,Severe,,2021-05-09
+ST_P0025,72,Female,Mild Cognitive Impairment,2019-01-02,Mild,,2021-03-17
+ST_P0026,87,Female,Vascular Dementia,2018-01-08,Severe,,2021-01-22
+ST_P0027,71,Male,Mild Cognitive Impairment,2017-11-04,Moderate,Osteoarthritis,2021-06-04
+ST_P0028,74,Female,Frontotemporal Dementia,2017-07-18,Mild,Hypertension; Osteoarthritis,2021-01-18
+ST_P0029,70,Female,Mild Cognitive Impairment,2017-08-30,Mild,,2021-03-05
+ST_P0030,80,Female,Vascular Dementia,2018-10-24,Moderate,,2021-04-24
+ST_P0031,82,Female,Alzheimer's Disease,2020-07-22,Severe,Hypertension,2021-03-10
+ST_P0032,78,Male,Mild Cognitive Impairment,2017-07-11,Moderate,,2021-03-11
+ST_P0033,86,Male,Alzheimer's Disease,2020-06-20,Severe,,2021-02-15
+ST_P0034,72,Male,Frontotemporal Dementia,2018-06-10,Mild,Depression,2021-06-29
+ST_P0035,82,Female,Lewy Body Dementia,2017-05-20,Mild,,2021-04-03
+ST_P0036,74,Male,Vascular Dementia,2020-08-04,Severe,Hypertension,2021-04-17
+ST_P0037,68,Female,Lewy Body Dementia,2019-02-08,Moderate,,2021-06-02
+ST_P0038,74,Female,Mild Cognitive Impairment,2018-01-10,Severe,,2021-01-06
+ST_P0039,60,Female,Alzheimer's Disease,2018-07-05,Mild,,2021-01-30
+ST_P0040,82,Female,Vascular Dementia,2019-06-19,Moderate,,2021-03-11
+ST_P0041,82,Male,Frontotemporal Dementia,2019-10-11,Mild,Osteoarthritis; Dyslipidemia,2021-04-18
+ST_P0042,82,Female,Frontotemporal Dementia,2020-01-20,Severe,,2021-01-16
+ST_P0043,63,Female,Frontotemporal Dementia,2018-02-21,Mild,,2021-02-05
+ST_P0044,73,Female,Mild Cognitive Impairment,2019-09-05,Mild,Dyslipidemia,2021-02-21
+ST_P0045,75,Female,Frontotemporal Dementia,2018-05-09,Moderate,,2021-06-18
+ST_P0046,78,Male,Frontotemporal Dementia,2019-02-07,Severe,Dyslipidemia; Osteoarthritis,2021-02-12
+ST_P0047,73,Male,Mild Cognitive Impairment,2018-08-19,Moderate,Osteoarthritis; Type 2 Diabetes,2021-05-05
+ST_P0048,72,Male,Alzheimer's Disease,2018-04-13,Moderate,,2021-06-04
+ST_P0049,79,Female,Frontotemporal Dementia,2018-12-16,Moderate,Osteoarthritis; Depression,2021-04-28
+ST_P0050,83,Female,Lewy Body Dementia,2017-08-22,Mild,,2021-05-21
+ST_P0051,66,Male,Frontotemporal Dementia,2020-09-28,Moderate,,2021-06-27
+ST_P0052,71,Female,Alzheimer's Disease,2017-10-21,Mild,Type 2 Diabetes; Dyslipidemia,2021-04-23
+ST_P0053,60,Male,Mild Cognitive Impairment,2020-02-24,Severe,,2021-05-02
+ST_P0054,81,Female,Frontotemporal Dementia,2018-06-13,Mild,Type 2 Diabetes,2021-06-25
+ST_P0055,87,Male,Lewy Body Dementia,2019-03-31,Moderate,Depression; Osteoarthritis,2021-05-15
+ST_P0056,66,Female,Lewy Body Dementia,2020-06-10,Mild,,2021-02-13
+ST_P0057,79,Male,Vascular Dementia,2017-03-16,Severe,,2021-02-01
+ST_P0058,70,Female,Alzheimer's Disease,2019-03-13,Moderate,,2021-04-11
+ST_P0059,81,Female,Frontotemporal Dementia,2017-11-05,Moderate,,2021-01-13
+ST_P0060,73,Female,Vascular Dementia,2017-04-22,Moderate,Dyslipidemia,2021-05-06
+ST_P0061,64,Male,Frontotemporal Dementia,2020-08-03,Severe,Dyslipidemia; Depression,2021-05-31
+ST_P0062,67,Male,Lewy Body Dementia,2019-07-05,Moderate,,2021-04-26
+ST_P0063,79,Male,Vascular Dementia,2019-04-13,Moderate,,2021-06-11
+ST_P0064,76,Male,Lewy Body Dementia,2018-06-04,Moderate,,2021-01-14
+ST_P0065,71,Female,Vascular Dementia,2017-07-30,Mild,Osteoarthritis,2021-04-02
+ST_P0066,70,Female,Frontotemporal Dementia,2017-11-10,Moderate,,2021-02-22
+ST_P0067,77,Male,Vascular Dementia,2020-06-14,Severe,,2021-06-04
+ST_P0068,70,Male,Mild Cognitive Impairment,2018-03-24,Severe,,2021-02-24
+ST_P0069,72,Male,Mild Cognitive Impairment,2018-10-16,Mild,,2021-04-06
+ST_P0070,59,Female,Alzheimer's Disease,2018-03-06,Severe,,2021-03-27
+ST_P0071,74,Male,Mild Cognitive Impairment,2019-06-21,Moderate,Dyslipidemia,2021-03-15
+ST_P0072,81,Male,Frontotemporal Dementia,2018-10-19,Moderate,Hypertension,2021-01-23
+ST_P0073,76,Female,Alzheimer's Disease,2018-12-15,Moderate,,2021-06-22
+ST_P0074,83,Female,Lewy Body Dementia,2018-01-22,Mild,,2021-05-03
+ST_P0075,82,Female,Vascular Dementia,2018-09-25,Moderate,,2021-01-14
+ST_P0076,70,Female,Lewy Body Dementia,2018-02-04,Moderate,Hypertension; Osteoarthritis,2021-06-24
+ST_P0077,77,Female,Frontotemporal Dementia,2019-10-03,Moderate,,2021-02-13
+ST_P0078,65,Female,Mild Cognitive Impairment,2017-09-05,Moderate,Type 2 Diabetes,2021-06-03
+ST_P0079,67,Female,Vascular Dementia,2018-05-30,Mild,,2021-05-21
+ST_P0080,68,Female,Lewy Body Dementia,2017-08-17,Severe,,2021-04-02
+ST_P0081,67,Male,Alzheimer's Disease,2019-07-05,Mild,,2021-03-08
+ST_P0082,66,Male,Vascular Dementia,2020-07-12,Mild,Dyslipidemia; Depression,2021-06-30
+ST_P0083,88,Male,Alzheimer's Disease,2017-04-01,Moderate,Hypertension; Type 2 Diabetes,2021-04-26
+ST_P0084,84,Female,Alzheimer's Disease,2019-08-13,Moderate,,2021-01-30
+ST_P0085,76,Male,Vascular Dementia,2017-10-10,Severe,Depression; Osteoarthritis,2021-06-19
+ST_P0086,82,Female,Alzheimer's Disease,2020-02-15,Severe,,2021-01-28
+ST_P0087,58,Female,Mild Cognitive Impairment,2019-07-15,Severe,,2021-05-28
+ST_P0088,76,Female,Alzheimer's Disease,2018-02-20,Moderate,,2021-01-19
+ST_P0089,63,Female,Lewy Body Dementia,2018-12-30,Mild,,2021-04-05
+ST_P0090,86,Male,Frontotemporal Dementia,2017-12-31,Mild,,2021-05-31
+ST_P0091,86,Female,Vascular Dementia,2020-05-11,Mild,Type 2 Diabetes,2021-05-26
+ST_P0092,77,Female,Frontotemporal Dementia,2020-06-29,Mild,Type 2 Diabetes; Depression,2021-02-04
+ST_P0093,93,Female,Frontotemporal Dementia,2019-01-22,Mild,Hypertension,2021-02-20
+ST_P0094,77,Male,Lewy Body Dementia,2017-09-13,Moderate,Dyslipidemia,2021-05-26
+ST_P0095,83,Female,Mild Cognitive Impairment,2017-07-27,Moderate,Hypertension; Osteoarthritis,2021-02-10
+ST_P0096,72,Female,Vascular Dementia,2017-05-06,Severe,,2021-01-10
+ST_P0097,80,Male,Frontotemporal Dementia,2017-12-11,Moderate,,2021-04-08
+ST_P0098,72,Female,Vascular Dementia,2019-10-01,Moderate,Osteoarthritis; Dyslipidemia,2021-04-20
+ST_P0099,74,Female,Lewy Body Dementia,2018-06-05,Severe,,2021-06-05
+ST_P0100,76,Female,Frontotemporal Dementia,2019-06-19,Moderate,,2021-01-27
+ST_P0101,71,Male,Lewy Body Dementia,2017-11-23,Severe,Type 2 Diabetes,2021-04-24
+ST_P0102,74,Male,Mild Cognitive Impairment,2017-08-04,Severe,,2021-04-19
+ST_P0103,66,Male,Frontotemporal Dementia,2017-09-21,Moderate,,2021-06-17
+ST_P0104,75,Female,Vascular Dementia,2019-07-15,Mild,,2021-06-06
+ST_P0105,78,Male,Lewy Body Dementia,2018-02-21,Severe,,2021-05-03
+ST_P0106,77,Female,Frontotemporal Dementia,2020-07-15,Mild,Dyslipidemia,2021-05-20
+ST_P0107,80,Female,Mild Cognitive Impairment,2019-12-13,Moderate,,2021-03-26
+ST_P0108,73,Female,Frontotemporal Dementia,2018-04-10,Mild,Hypertension,2021-03-18
+ST_P0109,69,Female,Alzheimer's Disease,2018-03-14,Moderate,Depression,2021-02-05
+ST_P0110,77,Female,Frontotemporal Dementia,2020-08-12,Severe,,2021-03-22
+ST_P0111,58,Male,Alzheimer's Disease,2020-11-28,Moderate,,2021-06-17
+ST_P0112,80,Female,Alzheimer's Disease,2018-12-19,Severe,Hypertension; Dyslipidemia,2021-02-19
+ST_P0113,81,Male,Frontotemporal Dementia,2020-05-19,Mild,,2021-03-21
+ST_P0114,78,Male,Vascular Dementia,2019-11-28,Mild,,2021-01-12
+ST_P0115,59,Male,Vascular Dementia,2018-12-12,Moderate,Osteoarthritis; Dyslipidemia,2021-01-28
+ST_P0116,93,Male,Vascular Dementia,2020-10-02,Mild,,2021-05-01
+ST_P0117,77,Male,Alzheimer's Disease,2019-06-20,Severe,,2021-02-23
+ST_P0118,77,Female,Mild Cognitive Impairment,2017-10-18,Mild,,2021-05-18
+ST_P0119,81,Male,Vascular Dementia,2018-09-02,Moderate,,2021-06-21
+ST_P0120,83,Female,Alzheimer's Disease,2018-10-06,Moderate,Dyslipidemia,2021-04-28
+ST_P0121,63,Female,Frontotemporal Dementia,2019-11-30,Severe,Osteoarthritis; Depression,2021-03-22
+ST_P0122,79,Male,Vascular Dementia,2018-05-06,Mild,Type 2 Diabetes; Hypertension,2021-05-22
+ST_P0123,64,Female,Alzheimer's Disease,2019-01-06,Moderate,Osteoarthritis; Hypertension,2021-02-10
+ST_P0124,82,Female,Lewy Body Dementia,2018-11-14,Mild,,2021-01-08
+ST_P0125,75,Female,Alzheimer's Disease,2019-08-13,Moderate,,2021-05-02
+ST_P0126,68,Male,Alzheimer's Disease,2019-07-13,Severe,,2021-06-08
+ST_P0127,93,Male,Alzheimer's Disease,2019-10-29,Severe,,2021-01-31
+ST_P0128,68,Female,Mild Cognitive Impairment,2019-11-30,Moderate,Depression,2021-05-05
+ST_P0129,91,Female,Lewy Body Dementia,2017-11-04,Severe,,2021-05-11
+ST_P0130,69,Male,Alzheimer's Disease,2018-10-20,Moderate,,2021-05-08
+ST_P0131,81,Male,Frontotemporal Dementia,2019-09-29,Moderate,Osteoarthritis,2021-02-18
+ST_P0132,79,Female,Frontotemporal Dementia,2017-04-28,Mild,,2021-05-27
+ST_P0133,79,Female,Alzheimer's Disease,2017-07-13,Moderate,Dyslipidemia,2021-06-27
+ST_P0134,88,Male,Lewy Body Dementia,2018-07-04,Moderate,Depression; Osteoarthritis,2021-06-30
+ST_P0135,71,Male,Lewy Body Dementia,2018-12-23,Severe,Dyslipidemia,2021-01-20
+ST_P0136,77,Male,Lewy Body Dementia,2018-04-07,Severe,Depression; Osteoarthritis,2021-02-02
+ST_P0137,82,Female,Lewy Body Dementia,2018-01-02,Severe,Dyslipidemia,2021-05-16
+ST_P0138,69,Male,Lewy Body Dementia,2017-08-24,Mild,,2021-03-12
+ST_P0139,86,Male,Lewy Body Dementia,2018-10-13,Moderate,,2021-03-12
+ST_P0140,78,Female,Lewy Body Dementia,2018-02-03,Moderate,Type 2 Diabetes,2021-02-06
+ST_P0141,84,Male,Frontotemporal Dementia,2018-12-08,Severe,,2021-04-01
+ST_P0142,72,Female,Alzheimer's Disease,2019-04-16,Moderate,,2021-04-05
+ST_P0143,70,Male,Mild Cognitive Impairment,2019-03-24,Mild,Hypertension; Osteoarthritis,2021-03-07
+ST_P0144,71,Male,Frontotemporal Dementia,2019-01-15,Severe,Type 2 Diabetes; Hypertension,2021-01-31
+ST_P0145,74,Male,Vascular Dementia,2017-07-14,Moderate,,2021-05-26
+ST_P0146,75,Female,Lewy Body Dementia,2019-01-15,Mild,Hypertension; Type 2 Diabetes,2021-05-16
+ST_P0147,72,Female,Lewy Body Dementia,2018-09-30,Severe,,2021-02-01
+ST_P0148,71,Female,Frontotemporal Dementia,2020-04-16,Moderate,Hypertension; Type 2 Diabetes,2021-02-24
+ST_P0149,73,Male,Vascular Dementia,2019-08-18,Severe,Dyslipidemia; Type 2 Diabetes,2021-04-12
+ST_P0150,93,Female,Alzheimer's Disease,2017-12-20,Mild,,2021-05-04
+ST_P0151,85,Female,Frontotemporal Dementia,2018-02-07,Moderate,,2021-06-21
+ST_P0152,76,Female,Frontotemporal Dementia,2018-08-21,Mild,Type 2 Diabetes; Dyslipidemia,2021-04-04
+ST_P0153,71,Female,Alzheimer's Disease,2018-06-20,Severe,,2021-05-22
+ST_P0154,64,Female,Frontotemporal Dementia,2020-09-28,Moderate,Osteoarthritis; Depression,2021-06-03
+ST_P0155,74,Male,Vascular Dementia,2018-03-28,Severe,,2021-04-14
+ST_P0156,88,Male,Alzheimer's Disease,2017-02-14,Severe,Osteoarthritis,2021-02-06
+ST_P0157,74,Male,Vascular Dementia,2017-10-19,Severe,,2021-06-28
+ST_P0158,87,Female,Lewy Body Dementia,2019-01-04,Mild,Depression; Type 2 Diabetes,2021-05-29
+ST_P0159,83,Female,Vascular Dementia,2017-03-20,Moderate,Osteoarthritis,2021-03-30
+ST_P0160,65,Female,Alzheimer's Disease,2019-10-14,Mild,Dyslipidemia,2021-01-10
+ST_P0161,89,Female,Lewy Body Dementia,2018-06-07,Mild,,2021-01-05
+ST_P0162,69,Male,Frontotemporal Dementia,2017-04-12,Severe,,2021-04-20
+ST_P0163,74,Male,Vascular Dementia,2018-02-20,Severe,Hypertension; Dyslipidemia,2021-04-27
+ST_P0164,80,Female,Alzheimer's Disease,2017-12-16,Mild,,2021-03-29
+ST_P0165,68,Male,Alzheimer's Disease,2020-07-10,Mild,Type 2 Diabetes; Osteoarthritis,2021-02-16
+ST_P0166,75,Female,Alzheimer's Disease,2018-10-02,Mild,,2021-01-07
+ST_P0167,74,Male,Vascular Dementia,2018-11-27,Moderate,Osteoarthritis; Hypertension,2021-04-22
+ST_P0168,72,Male,Alzheimer's Disease,2020-03-31,Moderate,Osteoarthritis,2021-04-26
+ST_P0169,77,Female,Lewy Body Dementia,2017-10-22,Severe,,2021-01-21
+ST_P0170,83,Female,Vascular Dementia,2019-11-14,Mild,Osteoarthritis; Depression,2021-01-30
+ST_P0171,62,Male,Mild Cognitive Impairment,2019-05-13,Moderate,,2021-04-12
+ST_P0172,81,Male,Alzheimer's Disease,2018-11-17,Mild,Hypertension,2021-06-12
+ST_P0173,77,Female,Mild Cognitive Impairment,2017-08-11,Moderate,,2021-06-06
+ST_P0174,77,Female,Lewy Body Dementia,2019-02-01,Mild,Hypertension; Type 2 Diabetes,2021-01-03
+ST_P0175,75,Male,Frontotemporal Dementia,2018-05-28,Severe,Depression; Type 2 Diabetes,2021-01-19
+ST_P0176,70,Female,Frontotemporal Dementia,2019-06-05,Mild,Type 2 Diabetes,2021-03-21
+ST_P0177,80,Female,Frontotemporal Dementia,2019-01-21,Moderate,Osteoarthritis,2021-01-27
+ST_P0178,64,Male,Mild Cognitive Impairment,2018-03-04,Moderate,,2021-02-05
+ST_P0179,70,Male,Frontotemporal Dementia,2018-07-18,Mild,Hypertension; Type 2 Diabetes,2021-03-24
+ST_P0180,86,Male,Mild Cognitive Impairment,2018-05-19,Moderate,Depression,2021-06-23
+ST_P0181,76,Male,Lewy Body Dementia,2020-04-26,Severe,Depression; Type 2 Diabetes,2021-02-16
+ST_P0182,61,Male,Vascular Dementia,2018-07-29,Severe,,2021-01-28
+ST_P0183,86,Female,Lewy Body Dementia,2017-10-17,Severe,,2021-03-16
+ST_P0184,71,Female,Lewy Body Dementia,2018-06-18,Severe,Hypertension; Osteoarthritis,2021-05-27
+ST_P0185,71,Male,Lewy Body Dementia,2017-06-16,Mild,,2021-06-26
+ST_P0186,74,Male,Frontotemporal Dementia,2020-02-20,Severe,,2021-02-28
+ST_P0187,74,Male,Alzheimer's Disease,2019-09-27,Moderate,Hypertension; Dyslipidemia,2021-06-07
+ST_P0188,82,Male,Alzheimer's Disease,2018-11-22,Mild,Type 2 Diabetes; Depression,2021-03-20
+ST_P0189,65,Male,Lewy Body Dementia,2020-06-22,Severe,Type 2 Diabetes; Depression,2021-06-18
+ST_P0190,70,Male,Vascular Dementia,2016-12-27,Mild,Hypertension; Depression,2021-01-11
+ST_P0191,72,Male,Mild Cognitive Impairment,2019-02-01,Severe,Osteoarthritis; Type 2 Diabetes,2021-03-05
+ST_P0192,74,Male,Lewy Body Dementia,2019-11-17,Mild,Type 2 Diabetes; Osteoarthritis,2021-02-14
+ST_P0193,74,Male,Alzheimer's Disease,2019-08-01,Severe,Type 2 Diabetes,2021-01-27
+ST_P0194,74,Male,Mild Cognitive Impairment,2020-06-10,Severe,,2021-06-25
+ST_P0195,88,Female,Alzheimer's Disease,2020-02-22,Moderate,,2021-04-14
+ST_P0196,58,Male,Mild Cognitive Impairment,2019-08-31,Mild,,2021-02-13
+ST_P0197,70,Male,Frontotemporal Dementia,2020-06-25,Mild,,2021-03-23
+ST_P0198,73,Male,Alzheimer's Disease,2018-07-10,Moderate,,2021-06-17
+ST_P0199,72,Female,Vascular Dementia,2019-01-27,Severe,Dyslipidemia,2021-04-27
+ST_P0200,71,Male,Mild Cognitive Impairment,2019-06-04,Moderate,,2021-01-08
+ST_P0201,73,Male,Frontotemporal Dementia,2019-02-10,Mild,Dyslipidemia,2021-03-19
+ST_P0202,83,Female,Frontotemporal Dementia,2018-08-09,Moderate,Hypertension; Dyslipidemia,2021-01-22
+ST_P0203,74,Female,Frontotemporal Dementia,2019-01-27,Mild,,2021-02-20
+ST_P0204,89,Male,Vascular Dementia,2017-12-03,Moderate,,2021-03-01
+ST_P0205,76,Female,Alzheimer's Disease,2020-04-21,Moderate,,2021-02-27
+ST_P0206,82,Male,Lewy Body Dementia,2017-11-24,Severe,,2021-01-21
+ST_P0207,89,Male,Alzheimer's Disease,2018-07-07,Moderate,Dyslipidemia,2021-04-03
+ST_P0208,75,Male,Frontotemporal Dementia,2019-07-21,Severe,,2021-01-20
+ST_P0209,78,Male,Mild Cognitive Impairment,2020-01-21,Mild,,2021-02-10
+ST_P0210,78,Female,Mild Cognitive Impairment,2017-12-24,Mild,Depression,2021-06-22
+ST_P0211,80,Male,Vascular Dementia,2019-12-15,Mild,Dyslipidemia,2021-03-18
+ST_P0212,75,Male,Alzheimer's Disease,2018-05-05,Moderate,,2021-05-15
+ST_P0213,76,Male,Lewy Body Dementia,2018-01-11,Moderate,Depression; Type 2 Diabetes,2021-04-08
+ST_P0214,77,Female,Frontotemporal Dementia,2018-05-16,Severe,,2021-05-04
+ST_P0215,81,Male,Lewy Body Dementia,2019-11-25,Severe,Depression,2021-01-18
+ST_P0216,78,Female,Mild Cognitive Impairment,2020-03-08,Mild,Dyslipidemia,2021-06-19
+ST_P0217,80,Male,Mild Cognitive Impairment,2019-08-26,Mild,Hypertension,2021-01-23
+ST_P0218,67,Male,Vascular Dementia,2017-10-25,Severe,Hypertension; Osteoarthritis,2021-01-16
+ST_P0219,70,Female,Alzheimer's Disease,2017-09-30,Severe,,2021-05-03
+ST_P0220,73,Female,Frontotemporal Dementia,2017-06-25,Mild,,2021-01-11
+ST_P0221,71,Female,Vascular Dementia,2020-02-27,Severe,Osteoarthritis,2021-01-05
+ST_P0222,70,Female,Lewy Body Dementia,2017-10-08,Severe,Hypertension,2021-01-11
+ST_P0223,78,Female,Lewy Body Dementia,2018-06-20,Severe,,2021-02-24
+ST_P0224,69,Male,Frontotemporal Dementia,2018-01-13,Moderate,,2021-04-14
+ST_P0225,71,Male,Mild Cognitive Impairment,2018-05-31,Mild,Dyslipidemia,2021-05-22
+ST_P0226,86,Male,Mild Cognitive Impairment,2017-02-25,Moderate,,2021-02-03
+ST_P0227,70,Male,Lewy Body Dementia,2019-03-12,Severe,Osteoarthritis; Depression,2021-03-05
+ST_P0228,82,Male,Alzheimer's Disease,2019-12-05,Severe,Hypertension; Osteoarthritis,2021-03-21
+ST_P0229,72,Male,Alzheimer's Disease,2019-12-09,Moderate,,2021-04-22
+ST_P0230,89,Female,Frontotemporal Dementia,2018-03-27,Mild,,2021-02-12
+ST_P0231,72,Female,Frontotemporal Dementia,2020-04-19,Mild,Osteoarthritis; Dyslipidemia,2021-01-15
+ST_P0232,80,Male,Mild Cognitive Impairment,2017-05-22,Mild,Dyslipidemia,2021-05-27
+ST_P0233,76,Male,Mild Cognitive Impairment,2019-03-18,Severe,Hypertension; Type 2 Diabetes,2021-01-20
+ST_P0234,78,Male,Alzheimer's Disease,2020-06-03,Mild,,2021-04-17
+ST_P0235,79,Male,Lewy Body Dementia,2020-05-03,Severe,Type 2 Diabetes,2021-04-20
+ST_P0236,74,Female,Frontotemporal Dementia,2018-04-17,Severe,,2021-02-15
+ST_P0237,71,Male,Frontotemporal Dementia,2018-05-22,Moderate,,2021-03-03
+ST_P0238,79,Female,Mild Cognitive Impairment,2020-06-20,Moderate,,2021-04-08
+ST_P0239,71,Female,Mild Cognitive Impairment,2018-04-16,Mild,Osteoarthritis,2021-06-28
+ST_P0240,87,Male,Alzheimer's Disease,2019-06-26,Mild,,2021-02-01
+ST_P0241,85,Male,Mild Cognitive Impairment,2017-07-06,Moderate,,2021-01-29
+ST_P0242,82,Male,Mild Cognitive Impairment,2020-08-21,Severe,Depression,2021-04-14
+ST_P0243,65,Female,Frontotemporal Dementia,2018-01-03,Moderate,,2021-06-07
+ST_P0244,70,Male,Mild Cognitive Impairment,2018-03-07,Mild,Hypertension; Dyslipidemia,2021-03-07
+ST_P0245,85,Male,Frontotemporal Dementia,2020-03-25,Mild,,2021-06-07
+ST_P0246,75,Male,Vascular Dementia,2018-03-07,Severe,,2021-05-09
+ST_P0247,78,Male,Lewy Body Dementia,2017-01-13,Severe,Hypertension; Osteoarthritis,2021-01-30
+ST_P0248,88,Female,Lewy Body Dementia,2019-01-23,Severe,Depression; Type 2 Diabetes,2021-05-01
+ST_P0249,74,Male,Mild Cognitive Impairment,2018-05-02,Mild,Dyslipidemia,2021-05-09
+ST_P0250,83,Male,Lewy Body Dementia,2017-09-05,Mild,Osteoarthritis; Dyslipidemia,2021-03-14
+ST_P0251,81,Male,Alzheimer's Disease,2018-02-23,Mild,Hypertension,2021-06-05
+ST_P0252,63,Female,Mild Cognitive Impairment,2019-02-14,Mild,,2021-06-09
+ST_P0253,68,Female,Vascular Dementia,2018-01-15,Severe,,2021-04-09
+ST_P0254,66,Female,Mild Cognitive Impairment,2017-10-18,Severe,Type 2 Diabetes,2021-06-16
+ST_P0255,68,Female,Mild Cognitive Impairment,2018-07-11,Mild,Osteoarthritis; Type 2 Diabetes,2021-05-07
+ST_P0256,70,Male,Frontotemporal Dementia,2017-05-16,Moderate,Dyslipidemia; Hypertension,2021-06-02
+ST_P0257,84,Female,Lewy Body Dementia,2017-03-02,Moderate,,2021-03-18
+ST_P0258,84,Male,Alzheimer's Disease,2019-07-12,Moderate,Osteoarthritis,2021-03-22
+ST_P0259,68,Male,Frontotemporal Dementia,2017-06-01,Mild,,2021-04-27
+ST_P0260,76,Female,Frontotemporal Dementia,2018-11-12,Mild,Osteoarthritis,2021-01-30
+ST_P0261,83,Male,Alzheimer's Disease,2018-09-28,Mild,Depression; Dyslipidemia,2021-04-24
+ST_P0262,72,Female,Vascular Dementia,2017-05-27,Severe,,2021-06-18
+ST_P0263,63,Male,Alzheimer's Disease,2017-03-29,Moderate,,2021-03-31
+ST_P0264,75,Female,Mild Cognitive Impairment,2018-11-24,Mild,Type 2 Diabetes,2021-02-24
+ST_P0265,83,Female,Frontotemporal Dementia,2018-12-01,Mild,,2021-03-13
+ST_P0266,59,Female,Lewy Body Dementia,2019-09-16,Moderate,,2021-01-14
+ST_P0267,77,Male,Lewy Body Dementia,2017-05-16,Mild,Hypertension; Type 2 Diabetes,2021-01-26
+ST_P0268,73,Male,Frontotemporal Dementia,2019-10-02,Moderate,,2021-02-19
+ST_P0269,74,Male,Mild Cognitive Impairment,2020-04-24,Severe,,2021-02-08
+ST_P0270,73,Female,Mild Cognitive Impairment,2020-01-17,Severe,,2021-03-13
+ST_P0271,67,Female,Lewy Body Dementia,2018-03-02,Moderate,,2021-06-22
+ST_P0272,83,Male,Vascular Dementia,2019-07-28,Moderate,,2021-06-20
+ST_P0273,71,Female,Lewy Body Dementia,2017-03-28,Severe,Hypertension; Dyslipidemia,2021-04-08
+ST_P0274,68,Male,Frontotemporal Dementia,2018-02-24,Moderate,,2021-04-12
+ST_P0275,93,Female,Lewy Body Dementia,2019-12-12,Severe,Osteoarthritis,2021-02-04
+ST_P0276,76,Male,Alzheimer's Disease,2020-10-22,Moderate,Dyslipidemia; Type 2 Diabetes,2021-06-18
+ST_P0277,64,Male,Lewy Body Dementia,2019-02-22,Moderate,Hypertension; Osteoarthritis,2021-05-16
+ST_P0278,71,Male,Alzheimer's Disease,2017-06-22,Mild,,2021-03-17
+ST_P0279,80,Male,Frontotemporal Dementia,2017-08-08,Severe,,2021-04-23
+ST_P0280,72,Male,Frontotemporal Dementia,2019-05-28,Moderate,,2021-03-13
+ST_P0281,75,Female,Lewy Body Dementia,2019-06-18,Moderate,,2021-03-05
+ST_P0282,87,Female,Mild Cognitive Impairment,2019-07-30,Severe,,2021-06-28
+ST_P0283,70,Male,Frontotemporal Dementia,2017-11-09,Mild,,2021-03-23
+ST_P0284,64,Male,Vascular Dementia,2020-05-31,Moderate,,2021-06-11
+ST_P0285,70,Male,Alzheimer's Disease,2020-06-13,Moderate,Hypertension; Osteoarthritis,2021-01-14
+ST_P0286,73,Female,Frontotemporal Dementia,2020-02-19,Mild,,2021-04-28
+ST_P0287,67,Female,Mild Cognitive Impairment,2019-12-09,Mild,Type 2 Diabetes; Depression,2021-01-05
+ST_P0288,83,Female,Vascular Dementia,2019-06-25,Moderate,,2021-04-16
+ST_P0289,75,Male,Mild Cognitive Impairment,2020-10-13,Moderate,Depression; Type 2 Diabetes,2021-06-03
+ST_P0290,81,Male,Lewy Body Dementia,2019-08-20,Mild,,2021-04-16
+ST_P0291,81,Male,Alzheimer's Disease,2018-08-27,Severe,Osteoarthritis; Dyslipidemia,2021-05-20
+ST_P0292,72,Female,Frontotemporal Dementia,2019-08-22,Severe,Osteoarthritis; Dyslipidemia,2021-02-01
+ST_P0293,77,Female,Mild Cognitive Impairment,2018-12-30,Mild,,2021-06-20
+ST_P0294,76,Male,Vascular Dementia,2018-06-19,Moderate,Type 2 Diabetes,2021-05-14
+ST_P0295,72,Male,Lewy Body Dementia,2020-08-31,Moderate,,2021-03-26
+ST_P0296,79,Male,Vascular Dementia,2018-08-23,Mild,Depression,2021-06-25
+ST_P0297,78,Male,Vascular Dementia,2020-02-15,Moderate,Hypertension; Osteoarthritis,2021-03-19
+ST_P0298,75,Male,Alzheimer's Disease,2018-03-30,Mild,,2021-04-08
+ST_P0299,84,Female,Mild Cognitive Impairment,2017-09-07,Moderate,,2021-06-27
+ST_P0300,84,Male,Vascular Dementia,2017-03-28,Severe,Hypertension; Depression,2021-01-15
+ST_P0301,87,Male,Frontotemporal Dementia,2018-05-25,Severe,Hypertension; Depression,2021-05-13
+ST_P0302,79,Male,Vascular Dementia,2019-11-25,Severe,Osteoarthritis; Hypertension,2021-06-23
+ST_P0303,72,Female,Vascular Dementia,2020-02-12,Mild,Type 2 Diabetes; Hypertension,2021-04-01
+ST_P0304,84,Male,Alzheimer's Disease,2020-03-05,Moderate,,2021-06-29
+ST_P0305,74,Female,Lewy Body Dementia,2019-05-15,Severe,Depression; Type 2 Diabetes,2021-03-13
+ST_P0306,67,Female,Vascular Dementia,2018-03-25,Mild,,2021-05-08
+ST_P0307,68,Male,Lewy Body Dementia,2019-02-19,Severe,,2021-04-13
+ST_P0308,69,Male,Frontotemporal Dementia,2020-09-15,Severe,Dyslipidemia,2021-04-16
+ST_P0309,64,Male,Alzheimer's Disease,2018-03-11,Mild,Depression; Osteoarthritis,2021-02-11
+ST_P0310,77,Female,Mild Cognitive Impairment,2019-01-01,Mild,,2021-01-11
+ST_P0311,76,Female,Mild Cognitive Impairment,2018-12-12,Moderate,,2021-06-06
+ST_P0312,64,Female,Vascular Dementia,2018-06-14,Mild,Type 2 Diabetes; Hypertension,2021-03-11
+ST_P0313,73,Male,Vascular Dementia,2017-11-03,Severe,Hypertension; Osteoarthritis,2021-05-20
+ST_P0314,69,Female,Lewy Body Dementia,2018-08-16,Mild,Hypertension,2021-02-18
+ST_P0315,90,Male,Frontotemporal Dementia,2018-05-03,Moderate,Osteoarthritis; Dyslipidemia,2021-06-01
+ST_P0316,83,Female,Frontotemporal Dementia,2020-04-09,Moderate,Osteoarthritis,2021-06-12
+ST_P0317,66,Male,Vascular Dementia,2020-06-18,Moderate,,2021-06-25
+ST_P0318,76,Male,Vascular Dementia,2017-07-01,Mild,,2021-04-03
+ST_P0319,85,Male,Alzheimer's Disease,2020-02-14,Mild,Hypertension; Type 2 Diabetes,2021-03-26
+ST_P0320,84,Male,Frontotemporal Dementia,2019-01-05,Moderate,,2021-03-10
+ST_P0321,80,Female,Vascular Dementia,2018-12-17,Mild,Type 2 Diabetes; Depression,2021-02-09
+ST_P0322,78,Male,Vascular Dementia,2018-03-15,Moderate,Type 2 Diabetes,2021-01-28
+ST_P0323,78,Female,Frontotemporal Dementia,2020-04-14,Mild,Hypertension,2021-01-26
+ST_P0324,80,Female,Lewy Body Dementia,2018-05-09,Mild,,2021-06-17
+ST_P0325,79,Male,Mild Cognitive Impairment,2020-03-25,Mild,Osteoarthritis,2021-01-06
+ST_P0326,82,Female,Lewy Body Dementia,2017-09-09,Mild,,2021-04-23
+ST_P0327,77,Female,Frontotemporal Dementia,2018-04-13,Moderate,,2021-05-08
+ST_P0328,83,Male,Lewy Body Dementia,2017-06-16,Severe,Depression; Dyslipidemia,2021-02-22
+ST_P0329,67,Female,Mild Cognitive Impairment,2017-10-15,Moderate,,2021-01-15
+ST_P0330,59,Female,Lewy Body Dementia,2018-04-23,Mild,,2021-06-20
+ST_P0331,74,Female,Vascular Dementia,2019-11-01,Mild,Dyslipidemia,2021-04-28
+ST_P0332,74,Male,Lewy Body Dementia,2018-09-22,Severe,,2021-06-07
+ST_P0333,78,Female,Lewy Body Dementia,2020-04-10,Severe,,2021-04-28
+ST_P0334,70,Female,Lewy Body Dementia,2017-03-28,Mild,,2021-04-05
+ST_P0335,71,Male,Mild Cognitive Impairment,2017-12-07,Moderate,,2021-03-30
+ST_P0336,70,Female,Alzheimer's Disease,2020-03-29,Mild,Dyslipidemia,2021-02-24
+ST_P0337,68,Male,Vascular Dementia,2017-09-14,Moderate,,2021-03-23
+ST_P0338,77,Male,Alzheimer's Disease,2018-12-20,Mild,Hypertension,2021-06-20
+ST_P0339,79,Female,Mild Cognitive Impairment,2020-02-22,Mild,Type 2 Diabetes,2021-04-30
+ST_P0340,66,Male,Lewy Body Dementia,2018-04-22,Mild,,2021-06-24
+ST_P0341,72,Female,Mild Cognitive Impairment,2018-01-26,Mild,Hypertension,2021-01-22
+ST_P0342,69,Female,Vascular Dementia,2020-02-03,Severe,Depression,2021-04-24
+ST_P0343,86,Male,Frontotemporal Dementia,2018-07-14,Mild,,2021-06-17
+ST_P0344,66,Female,Alzheimer's Disease,2019-09-03,Moderate,Dyslipidemia; Depression,2021-06-06
+ST_P0345,64,Male,Alzheimer's Disease,2020-09-27,Moderate,Dyslipidemia,2021-06-18
+ST_P0346,77,Female,Lewy Body Dementia,2018-10-23,Mild,,2021-06-11
+ST_P0347,92,Female,Lewy Body Dementia,2017-06-04,Severe,,2021-02-05
+ST_P0348,81,Male,Lewy Body Dementia,2020-04-04,Mild,,2021-01-16
+ST_P0349,79,Male,Mild Cognitive Impairment,2018-12-29,Mild,,2021-03-30
+ST_P0350,70,Female,Frontotemporal Dementia,2019-10-05,Severe,,2021-02-21
+ST_P0351,75,Male,Frontotemporal Dementia,2020-04-12,Mild,Dyslipidemia,2021-04-28
+ST_P0352,73,Male,Lewy Body Dementia,2019-10-19,Severe,,2021-06-15
+ST_P0353,72,Male,Lewy Body Dementia,2020-05-22,Mild,,2021-03-27
+ST_P0354,76,Female,Alzheimer's Disease,2017-12-29,Moderate,Type 2 Diabetes; Hypertension,2021-03-25
+ST_P0355,77,Female,Alzheimer's Disease,2018-12-23,Moderate,,2021-04-27
+ST_P0356,89,Female,Alzheimer's Disease,2017-05-10,Moderate,Hypertension; Osteoarthritis,2021-05-23
+ST_P0357,90,Female,Vascular Dementia,2018-02-24,Moderate,,2021-06-08
+ST_P0358,77,Male,Alzheimer's Disease,2019-11-13,Moderate,,2021-01-20
+ST_P0359,86,Female,Lewy Body Dementia,2018-03-06,Mild,,2021-01-07
+ST_P0360,75,Female,Mild Cognitive Impairment,2020-01-08,Moderate,,2021-03-02
+ST_P0361,69,Female,Frontotemporal Dementia,2018-11-25,Moderate,Type 2 Diabetes; Hypertension,2021-05-25
+ST_P0362,78,Female,Vascular Dementia,2019-05-29,Severe,Type 2 Diabetes,2021-02-20
+ST_P0363,73,Male,Lewy Body Dementia,2018-01-27,Moderate,,2021-05-28
+ST_P0364,58,Male,Mild Cognitive Impairment,2017-07-25,Severe,,2021-06-08
+ST_P0365,79,Male,Alzheimer's Disease,2017-05-15,Severe,Osteoarthritis; Type 2 Diabetes,2021-03-23
+ST_P0366,80,Male,Frontotemporal Dementia,2018-07-30,Moderate,Type 2 Diabetes; Depression,2021-02-17
+ST_P0367,83,Female,Mild Cognitive Impairment,2020-05-11,Mild,Depression; Osteoarthritis,2021-06-27
+ST_P0368,74,Male,Vascular Dementia,2017-10-23,Severe,,2021-06-06
+ST_P0369,85,Male,Mild Cognitive Impairment,2019-03-30,Severe,,2021-04-20
+ST_P0370,78,Male,Frontotemporal Dementia,2019-10-17,Mild,Osteoarthritis,2021-04-12
+ST_P0371,84,Female,Lewy Body Dementia,2020-02-20,Moderate,,2021-01-19
+ST_P0372,70,Female,Lewy Body Dementia,2018-06-22,Severe,Osteoarthritis; Dyslipidemia,2021-04-21
+ST_P0373,74,Male,Frontotemporal Dementia,2019-01-21,Mild,,2021-06-27
+ST_P0374,75,Male,Frontotemporal Dementia,2019-07-18,Mild,,2021-02-09
+ST_P0375,72,Male,Alzheimer's Disease,2018-06-26,Mild,,2021-02-22
+ST_P0376,93,Female,Frontotemporal Dementia,2018-01-17,Moderate,,2021-03-10
+ST_P0377,76,Female,Frontotemporal Dementia,2019-08-24,Moderate,,2021-04-21
+ST_P0378,71,Male,Alzheimer's Disease,2018-08-02,Moderate,,2021-05-30
+ST_P0379,82,Male,Frontotemporal Dementia,2020-02-17,Mild,Osteoarthritis,2021-06-27
+ST_P0380,79,Male,Alzheimer's Disease,2017-10-30,Moderate,,2021-01-30
+ST_P0381,74,Male,Alzheimer's Disease,2017-11-07,Severe,Type 2 Diabetes; Osteoarthritis,2021-01-29
+ST_P0382,77,Female,Mild Cognitive Impairment,2017-10-14,Mild,Hypertension,2021-06-26
+ST_P0383,83,Male,Lewy Body Dementia,2019-09-14,Mild,,2021-03-19
+ST_P0384,76,Male,Frontotemporal Dementia,2017-01-01,Moderate,Depression; Osteoarthritis,2021-01-13
+ST_P0385,79,Female,Lewy Body Dementia,2017-04-10,Mild,Hypertension; Type 2 Diabetes,2021-04-28
+ST_P0386,75,Female,Frontotemporal Dementia,2019-10-21,Severe,,2021-04-22
+ST_P0387,63,Male,Frontotemporal Dementia,2018-07-24,Moderate,,2021-01-11
+ST_P0388,78,Female,Lewy Body Dementia,2018-01-30,Mild,Depression; Hypertension,2021-04-01
+ST_P0389,89,Female,Mild Cognitive Impairment,2019-07-29,Severe,,2021-05-12
+ST_P0390,69,Male,Lewy Body Dementia,2018-06-08,Moderate,Depression,2021-04-17
+ST_P0391,68,Male,Vascular Dementia,2017-06-01,Severe,Dyslipidemia; Osteoarthritis,2021-06-04
+ST_P0392,80,Male,Mild Cognitive Impairment,2020-07-05,Mild,Osteoarthritis,2021-03-18
+ST_P0393,77,Female,Vascular Dementia,2019-10-13,Mild,Dyslipidemia; Osteoarthritis,2021-02-05
+ST_P0394,75,Female,Vascular Dementia,2018-06-22,Mild,,2021-04-23
+ST_P0395,91,Male,Frontotemporal Dementia,2019-01-20,Severe,Type 2 Diabetes,2021-06-08
+ST_P0396,82,Male,Vascular Dementia,2020-08-28,Mild,Type 2 Diabetes; Osteoarthritis,2021-04-14
+ST_P0397,83,Female,Lewy Body Dementia,2020-04-01,Mild,Dyslipidemia,2021-04-29
+ST_P0398,73,Female,Lewy Body Dementia,2019-10-23,Moderate,,2021-06-24
+ST_P0399,69,Male,Vascular Dementia,2019-07-31,Moderate,,2021-01-28
+ST_P0400,86,Female,Lewy Body Dementia,2019-10-08,Moderate,,2021-05-01
+ST_P0401,70,Male,Lewy Body Dementia,2017-08-13,Moderate,Hypertension; Type 2 Diabetes,2021-02-23
+ST_P0402,70,Male,Mild Cognitive Impairment,2017-07-03,Moderate,Depression; Hypertension,2021-02-04
+ST_P0403,63,Female,Frontotemporal Dementia,2017-12-19,Severe,Osteoarthritis,2021-03-21
+ST_P0404,70,Female,Mild Cognitive Impairment,2018-12-21,Mild,,2021-03-12
+ST_P0405,72,Female,Frontotemporal Dementia,2018-02-01,Moderate,Type 2 Diabetes; Osteoarthritis,2021-03-02
+ST_P0406,74,Male,Alzheimer's Disease,2020-03-17,Moderate,,2021-06-26
+ST_P0407,80,Male,Vascular Dementia,2019-09-06,Moderate,,2021-02-28
+ST_P0408,83,Male,Frontotemporal Dementia,2017-05-10,Mild,Osteoarthritis; Depression,2021-04-02
+ST_P0409,68,Male,Vascular Dementia,2017-04-23,Mild,Hypertension; Dyslipidemia,2021-04-19
+ST_P0410,76,Female,Frontotemporal Dementia,2017-12-10,Severe,,2021-03-08
+ST_P0411,78,Male,Vascular Dementia,2019-06-11,Mild,Osteoarthritis,2021-04-30
+ST_P0412,70,Female,Alzheimer's Disease,2018-04-25,Severe,,2021-06-21
+ST_P0413,69,Male,Vascular Dementia,2018-08-30,Mild,,2021-02-18
+ST_P0414,74,Female,Lewy Body Dementia,2018-10-23,Mild,,2021-01-31
+ST_P0415,72,Male,Frontotemporal Dementia,2020-07-23,Severe,Depression; Type 2 Diabetes,2021-06-08
+ST_P0416,86,Male,Alzheimer's Disease,2019-06-10,Moderate,Osteoarthritis; Depression,2021-01-17
+ST_P0417,71,Male,Lewy Body Dementia,2019-11-03,Severe,,2021-01-26
+ST_P0418,80,Male,Frontotemporal Dementia,2019-03-31,Moderate,,2021-05-03
+ST_P0419,84,Female,Lewy Body Dementia,2017-06-03,Mild,,2021-04-23
+ST_P0420,78,Male,Frontotemporal Dementia,2017-02-09,Severe,Depression,2021-01-01
+ST_P0421,70,Female,Vascular Dementia,2019-03-14,Severe,Type 2 Diabetes; Hypertension,2021-03-02
+ST_P0422,70,Male,Mild Cognitive Impairment,2019-04-18,Severe,,2021-04-17
+ST_P0423,71,Female,Alzheimer's Disease,2019-10-15,Moderate,Depression; Dyslipidemia,2021-06-22
+ST_P0424,76,Female,Alzheimer's Disease,2017-03-29,Severe,Type 2 Diabetes; Hypertension,2021-04-15
+ST_P0425,75,Female,Vascular Dementia,2017-02-08,Moderate,,2021-01-18
+ST_P0426,79,Male,Alzheimer's Disease,2018-06-28,Mild,Type 2 Diabetes,2021-04-30
+ST_P0427,79,Male,Mild Cognitive Impairment,2020-08-25,Mild,,2021-06-14
+ST_P0428,66,Female,Frontotemporal Dementia,2017-05-19,Moderate,Type 2 Diabetes,2021-04-16
+ST_P0429,72,Male,Vascular Dementia,2017-09-16,Mild,Osteoarthritis,2021-04-28
+ST_P0430,79,Female,Vascular Dementia,2017-07-16,Mild,Dyslipidemia; Depression,2021-03-21
+ST_P0431,78,Female,Lewy Body Dementia,2020-04-24,Mild,,2021-02-28
+ST_P0432,68,Female,Lewy Body Dementia,2019-01-23,Moderate,Type 2 Diabetes; Hypertension,2021-04-03
+ST_P0433,74,Male,Lewy Body Dementia,2020-05-01,Severe,Osteoarthritis; Depression,2021-05-20
+ST_P0434,71,Male,Lewy Body Dementia,2020-02-19,Moderate,Hypertension,2021-01-26
+ST_P0435,79,Male,Lewy Body Dementia,2019-05-09,Moderate,Osteoarthritis; Type 2 Diabetes,2021-01-13
+ST_P0436,79,Male,Alzheimer's Disease,2020-05-14,Moderate,,2021-02-21
+ST_P0437,85,Male,Frontotemporal Dementia,2020-02-13,Mild,,2021-01-08
+ST_P0438,71,Male,Mild Cognitive Impairment,2020-08-13,Moderate,,2021-05-14
+ST_P0439,74,Female,Frontotemporal Dementia,2018-05-12,Mild,,2021-01-13
+ST_P0440,72,Female,Alzheimer's Disease,2018-12-06,Mild,Depression; Type 2 Diabetes,2021-01-14
+ST_P0441,72,Male,Vascular Dementia,2020-02-24,Moderate,,2021-05-11
+ST_P0442,77,Male,Lewy Body Dementia,2017-08-30,Severe,Hypertension; Dyslipidemia,2021-06-29
+ST_P0443,85,Female,Mild Cognitive Impairment,2017-08-09,Severe,Osteoarthritis,2021-01-25
+ST_P0444,79,Male,Mild Cognitive Impairment,2018-05-04,Moderate,,2021-05-01
+ST_P0445,93,Male,Mild Cognitive Impairment,2018-07-02,Mild,,2021-04-10
+ST_P0446,73,Male,Vascular Dementia,2019-05-29,Moderate,,2021-03-22
+ST_P0447,79,Female,Lewy Body Dementia,2016-12-21,Moderate,Depression,2021-01-20
+ST_P0448,75,Female,Alzheimer's Disease,2018-03-27,Mild,Depression,2021-01-23
+ST_P0449,76,Female,Mild Cognitive Impairment,2017-10-13,Severe,Dyslipidemia,2021-01-02
+ST_P0450,71,Male,Mild Cognitive Impairment,2019-05-02,Moderate,,2021-03-15
+ST_P0451,67,Female,Alzheimer's Disease,2020-09-18,Mild,Hypertension; Dyslipidemia,2021-05-01
+ST_P0452,77,Female,Lewy Body Dementia,2019-03-05,Moderate,Type 2 Diabetes,2021-01-21
+ST_P0453,70,Female,Alzheimer's Disease,2017-04-20,Severe,Hypertension; Depression,2021-02-16
+ST_P0454,75,Female,Vascular Dementia,2019-02-07,Moderate,Type 2 Diabetes; Osteoarthritis,2021-01-14
+ST_P0455,78,Female,Lewy Body Dementia,2017-04-17,Severe,,2021-03-03
+ST_P0456,82,Male,Mild Cognitive Impairment,2019-03-12,Moderate,Dyslipidemia,2021-01-23
+ST_P0457,67,Male,Lewy Body Dementia,2020-05-12,Moderate,Type 2 Diabetes,2021-02-17
+ST_P0458,66,Male,Vascular Dementia,2017-05-29,Moderate,Dyslipidemia; Type 2 Diabetes,2021-03-23
+ST_P0459,69,Female,Alzheimer's Disease,2017-11-24,Moderate,,2021-02-03
+ST_P0460,79,Male,Alzheimer's Disease,2016-12-17,Mild,,2021-01-07
+ST_P0461,81,Male,Mild Cognitive Impairment,2017-11-18,Mild,,2021-04-16
+ST_P0462,76,Male,Mild Cognitive Impairment,2018-02-02,Moderate,,2021-06-23
+ST_P0463,84,Female,Alzheimer's Disease,2019-03-12,Severe,Depression; Osteoarthritis,2021-01-06
+ST_P0464,64,Female,Mild Cognitive Impairment,2018-11-26,Mild,Dyslipidemia,2021-03-05
+ST_P0465,68,Female,Frontotemporal Dementia,2020-01-21,Moderate,,2021-03-26
+ST_P0466,76,Male,Alzheimer's Disease,2018-05-06,Moderate,,2021-04-17
+ST_P0467,74,Female,Alzheimer's Disease,2020-06-01,Mild,,2021-05-16
+ST_P0468,74,Female,Frontotemporal Dementia,2018-07-10,Moderate,,2021-04-14
+ST_P0469,80,Male,Frontotemporal Dementia,2017-03-27,Severe,Hypertension; Osteoarthritis,2021-01-03
+ST_P0470,84,Female,Frontotemporal Dementia,2018-07-31,Severe,,2021-01-12
+ST_P0471,69,Female,Frontotemporal Dementia,2017-07-31,Mild,Hypertension; Dyslipidemia,2021-02-08
+ST_P0472,76,Male,Frontotemporal Dementia,2018-07-27,Severe,Hypertension; Osteoarthritis,2021-04-15
+ST_P0473,60,Male,Frontotemporal Dementia,2019-04-03,Moderate,,2021-05-06
+ST_P0474,77,Male,Mild Cognitive Impairment,2019-12-17,Moderate,Dyslipidemia,2021-02-14
+ST_P0475,82,Male,Mild Cognitive Impairment,2017-08-12,Mild,Type 2 Diabetes; Depression,2021-03-28
+ST_P0476,75,Male,Vascular Dementia,2020-03-16,Mild,,2021-01-01
+ST_P0477,84,Male,Mild Cognitive Impairment,2018-04-21,Severe,,2021-03-30
+ST_P0478,67,Female,Alzheimer's Disease,2018-11-18,Mild,,2021-05-21
+ST_P0479,80,Male,Lewy Body Dementia,2018-12-25,Moderate,Type 2 Diabetes,2021-06-25
+ST_P0480,77,Male,Alzheimer's Disease,2019-09-05,Mild,Osteoarthritis,2021-03-05
+ST_P0481,79,Female,Frontotemporal Dementia,2018-01-14,Mild,,2021-03-09
+ST_P0482,72,Female,Alzheimer's Disease,2018-03-25,Mild,Dyslipidemia,2021-04-21
+ST_P0483,78,Male,Vascular Dementia,2020-09-21,Mild,Depression,2021-04-13
+ST_P0484,77,Female,Alzheimer's Disease,2019-05-13,Moderate,,2021-05-02
+ST_P0485,72,Male,Lewy Body Dementia,2020-05-24,Mild,,2021-05-30
+ST_P0486,66,Female,Mild Cognitive Impairment,2018-12-06,Moderate,Type 2 Diabetes,2021-02-16
+ST_P0487,72,Female,Alzheimer's Disease,2018-07-09,Moderate,Hypertension,2021-03-22
+ST_P0488,78,Male,Vascular Dementia,2017-05-30,Severe,,2021-03-20
+ST_P0489,77,Male,Alzheimer's Disease,2018-06-11,Severe,,2021-02-09
+ST_P0490,79,Male,Vascular Dementia,2019-06-15,Severe,,2021-04-02
+ST_P0491,72,Female,Vascular Dementia,2020-06-27,Mild,Hypertension,2021-01-29
+ST_P0492,85,Male,Vascular Dementia,2018-01-08,Severe,,2021-05-17
+ST_P0493,64,Female,Frontotemporal Dementia,2020-02-27,Severe,Osteoarthritis; Depression,2021-02-17
+ST_P0494,75,Female,Frontotemporal Dementia,2018-02-03,Mild,,2021-01-07
+ST_P0495,73,Male,Vascular Dementia,2017-03-09,Mild,Hypertension; Type 2 Diabetes,2021-01-10
+ST_P0496,70,Female,Lewy Body Dementia,2017-07-22,Moderate,,2021-03-21
+ST_P0497,69,Male,Lewy Body Dementia,2017-08-25,Moderate,,2021-04-07
+ST_P0498,58,Male,Mild Cognitive Impairment,2018-07-18,Severe,,2021-06-20
+ST_P0499,78,Female,Lewy Body Dementia,2020-04-10,Moderate,,2021-02-22
+ST_P0500,69,Male,Mild Cognitive Impairment,2019-12-17,Mild,,2021-03-19
+ST_P0501,75,Male,Mild Cognitive Impairment,2018-09-02,Mild,,2021-06-14
+ST_P0502,71,Male,Vascular Dementia,2018-10-24,Moderate,,2021-02-17
+ST_P0503,77,Male,Alzheimer's Disease,2019-10-09,Mild,,2021-01-26
+ST_P0504,80,Female,Vascular Dementia,2018-02-06,Moderate,,2021-03-29
+ST_P0505,81,Female,Vascular Dementia,2019-04-25,Severe,Hypertension; Dyslipidemia,2021-05-11
+ST_P0506,82,Female,Lewy Body Dementia,2019-01-29,Moderate,,2021-04-20
+ST_P0507,83,Male,Mild Cognitive Impairment,2019-07-06,Severe,,2021-02-07
+ST_P0508,92,Male,Mild Cognitive Impairment,2019-10-13,Severe,,2021-04-08
+ST_P0509,69,Male,Lewy Body Dementia,2017-06-19,Severe,,2021-06-17
+ST_P0510,74,Male,Frontotemporal Dementia,2018-01-11,Severe,Type 2 Diabetes,2021-04-14
+ST_P0511,84,Female,Vascular Dementia,2019-10-25,Mild,,2021-06-03
+ST_P0512,74,Female,Vascular Dementia,2018-08-22,Severe,,2021-06-01
+ST_P0513,74,Female,Mild Cognitive Impairment,2019-11-25,Severe,,2021-03-20
+ST_P0514,84,Male,Vascular Dementia,2019-09-02,Severe,Dyslipidemia,2021-03-26
+ST_P0515,80,Female,Frontotemporal Dementia,2017-11-12,Severe,Hypertension; Depression,2021-03-14
+ST_P0516,81,Male,Mild Cognitive Impairment,2018-05-26,Mild,Osteoarthritis; Dyslipidemia,2021-02-14
+ST_P0517,73,Female,Alzheimer's Disease,2018-12-29,Moderate,,2021-06-26
+ST_P0518,74,Female,Mild Cognitive Impairment,2020-09-30,Mild,,2021-04-20
+ST_P0519,81,Male,Alzheimer's Disease,2018-08-19,Moderate,,2021-06-04
+ST_P0520,64,Female,Vascular Dementia,2019-05-05,Mild,,2021-05-12
+ST_P0521,73,Female,Frontotemporal Dementia,2018-02-24,Severe,Osteoarthritis; Dyslipidemia,2021-01-08
+ST_P0522,75,Male,Mild Cognitive Impairment,2018-11-11,Mild,,2021-03-20
+ST_P0523,66,Male,Alzheimer's Disease,2017-05-17,Moderate,,2021-05-22
+ST_P0524,74,Male,Frontotemporal Dementia,2019-08-22,Severe,,2021-06-21
+ST_P0525,76,Female,Vascular Dementia,2017-12-04,Moderate,,2021-05-12
+ST_P0526,89,Female,Frontotemporal Dementia,2018-10-21,Severe,Hypertension; Dyslipidemia,2021-05-07
+ST_P0527,81,Male,Mild Cognitive Impairment,2017-09-26,Mild,,2021-04-15
+ST_P0528,74,Female,Mild Cognitive Impairment,2018-10-07,Moderate,Osteoarthritis,2021-01-25
+ST_P0529,89,Male,Vascular Dementia,2019-07-19,Mild,,2021-03-09
+ST_P0530,76,Female,Mild Cognitive Impairment,2018-10-04,Moderate,Dyslipidemia,2021-04-04
+ST_P0531,72,Female,Alzheimer's Disease,2019-06-27,Mild,,2021-06-05
+ST_P0532,77,Male,Lewy Body Dementia,2018-12-21,Mild,,2021-03-19
+ST_P0533,85,Male,Mild Cognitive Impairment,2017-11-05,Mild,,2021-01-29
+ST_P0534,79,Male,Vascular Dementia,2018-01-02,Mild,Depression,2021-04-07
+ST_P0535,74,Male,Lewy Body Dementia,2018-10-11,Mild,,2021-05-22
+ST_P0536,80,Male,Lewy Body Dementia,2017-03-07,Severe,Depression,2021-01-24
+ST_P0537,75,Male,Alzheimer's Disease,2017-07-14,Severe,,2021-02-09
+ST_P0538,70,Female,Vascular Dementia,2017-07-22,Moderate,Type 2 Diabetes; Dyslipidemia,2021-03-24
+ST_P0539,71,Male,Vascular Dementia,2018-01-26,Mild,,2021-05-16
+ST_P0540,78,Female,Lewy Body Dementia,2020-05-29,Moderate,,2021-05-28
+ST_P0541,72,Female,Lewy Body Dementia,2018-11-04,Moderate,Depression,2021-02-25
+ST_P0542,88,Female,Vascular Dementia,2018-04-24,Moderate,Type 2 Diabetes,2021-06-02
+ST_P0543,83,Female,Alzheimer's Disease,2018-02-07,Severe,Osteoarthritis,2021-06-21
+ST_P0544,75,Male,Frontotemporal Dementia,2019-11-26,Severe,Type 2 Diabetes,2021-06-24
+ST_P0545,74,Male,Mild Cognitive Impairment,2018-01-25,Severe,,2021-04-22
+ST_P0546,82,Female,Mild Cognitive Impairment,2017-11-27,Mild,,2021-05-15
+ST_P0547,69,Male,Lewy Body Dementia,2018-02-16,Severe,,2021-01-07
+ST_P0548,59,Female,Vascular Dementia,2020-02-01,Moderate,Dyslipidemia; Osteoarthritis,2021-04-28
+ST_P0549,77,Female,Alzheimer's Disease,2019-12-07,Mild,Dyslipidemia,2021-01-22
+ST_P0550,87,Female,Alzheimer's Disease,2020-08-15,Moderate,Type 2 Diabetes; Hypertension,2021-03-27
+ST_P0551,84,Female,Frontotemporal Dementia,2017-09-21,Severe,Dyslipidemia,2021-04-19
+ST_P0552,76,Male,Lewy Body Dementia,2017-06-03,Mild,Dyslipidemia; Type 2 Diabetes,2021-04-24
+ST_P0553,90,Female,Alzheimer's Disease,2019-10-02,Moderate,,2021-04-25
+ST_P0554,81,Male,Vascular Dementia,2019-09-02,Mild,Depression; Osteoarthritis,2021-01-20
+ST_P0555,67,Male,Lewy Body Dementia,2017-09-11,Mild,,2021-06-08
+ST_P0556,79,Male,Mild Cognitive Impairment,2018-10-23,Mild,,2021-05-16
+ST_P0557,70,Female,Vascular Dementia,2019-02-02,Moderate,Osteoarthritis; Type 2 Diabetes,2021-05-28
+ST_P0558,80,Female,Mild Cognitive Impairment,2020-05-15,Moderate,,2021-06-29
+ST_P0559,78,Male,Lewy Body Dementia,2018-11-08,Severe,,2021-05-13
+ST_P0560,80,Female,Lewy Body Dementia,2017-06-24,Mild,,2021-04-14
+ST_P0561,79,Female,Frontotemporal Dementia,2018-07-27,Moderate,,2021-06-12
+ST_P0562,76,Male,Alzheimer's Disease,2020-04-06,Mild,Dyslipidemia; Hypertension,2021-04-01
+ST_P0563,68,Male,Lewy Body Dementia,2017-12-01,Mild,Type 2 Diabetes,2021-02-25
+ST_P0564,73,Female,Alzheimer's Disease,2019-11-07,Severe,,2021-01-11
+ST_P0565,66,Female,Mild Cognitive Impairment,2017-02-03,Mild,,2021-01-18
+ST_P0566,75,Male,Frontotemporal Dementia,2019-07-04,Moderate,Depression; Hypertension,2021-04-24
+ST_P0567,78,Female,Alzheimer's Disease,2019-07-07,Severe,,2021-01-17
+ST_P0568,70,Male,Mild Cognitive Impairment,2019-07-08,Moderate,Dyslipidemia,2021-02-10
+ST_P0569,83,Female,Mild Cognitive Impairment,2020-01-04,Moderate,,2021-01-22
+ST_P0570,73,Female,Alzheimer's Disease,2017-07-28,Moderate,,2021-01-01
+ST_P0571,71,Male,Alzheimer's Disease,2017-11-20,Moderate,Depression,2021-03-13
+ST_P0572,77,Male,Alzheimer's Disease,2018-09-07,Mild,Depression; Dyslipidemia,2021-04-22
+ST_P0573,71,Female,Lewy Body Dementia,2017-05-13,Mild,,2021-04-22
+ST_P0574,68,Female,Mild Cognitive Impairment,2017-07-26,Mild,,2021-03-24
+ST_P0575,78,Female,Frontotemporal Dementia,2019-01-02,Severe,,2021-05-26
+ST_P0576,67,Male,Frontotemporal Dementia,2017-09-30,Severe,Dyslipidemia,2021-04-23
+ST_P0577,75,Male,Frontotemporal Dementia,2018-12-27,Mild,,2021-04-11
+ST_P0578,73,Male,Mild Cognitive Impairment,2020-09-28,Mild,,2021-05-04
+ST_P0579,65,Female,Lewy Body Dementia,2017-05-23,Moderate,Dyslipidemia,2021-06-20
+ST_P0580,77,Male,Alzheimer's Disease,2019-03-12,Mild,Depression; Type 2 Diabetes,2021-02-17
+ST_P0581,76,Male,Alzheimer's Disease,2017-06-01,Mild,Dyslipidemia,2021-02-02
+ST_P0582,70,Male,Mild Cognitive Impairment,2017-05-06,Mild,Hypertension; Depression,2021-01-12
+ST_P0583,69,Female,Mild Cognitive Impairment,2018-11-26,Severe,,2021-02-11
+ST_P0584,70,Male,Vascular Dementia,2020-08-21,Mild,Osteoarthritis; Type 2 Diabetes,2021-06-03
+ST_P0585,74,Female,Alzheimer's Disease,2018-12-13,Severe,,2021-01-20
+ST_P0586,77,Male,Alzheimer's Disease,2019-09-26,Moderate,,2021-04-03
+ST_P0587,75,Female,Alzheimer's Disease,2019-05-18,Mild,,2021-05-08
+ST_P0588,75,Female,Vascular Dementia,2019-10-23,Severe,,2021-02-12
+ST_P0589,76,Female,Frontotemporal Dementia,2019-02-11,Severe,Type 2 Diabetes; Hypertension,2021-01-27
+ST_P0590,62,Male,Frontotemporal Dementia,2018-11-04,Moderate,,2021-04-13
+ST_P0591,74,Female,Mild Cognitive Impairment,2018-06-06,Severe,Depression; Osteoarthritis,2021-05-14
+ST_P0592,81,Female,Alzheimer's Disease,2018-04-28,Mild,Osteoarthritis,2021-03-14
+ST_P0593,77,Male,Vascular Dementia,2018-04-10,Mild,,2021-05-23
+ST_P0594,77,Male,Alzheimer's Disease,2020-02-13,Severe,,2021-05-08
+ST_P0595,69,Female,Alzheimer's Disease,2019-07-02,Moderate,Type 2 Diabetes,2021-03-14
+ST_P0596,79,Male,Lewy Body Dementia,2018-05-20,Mild,,2021-04-08
+ST_P0597,70,Female,Vascular Dementia,2020-09-07,Severe,,2021-05-27
+ST_P0598,76,Male,Alzheimer's Disease,2018-11-20,Severe,Hypertension,2021-03-21
+ST_P0599,77,Female,Alzheimer's Disease,2020-09-20,Mild,,2021-06-22
+ST_P0600,89,Male,Mild Cognitive Impairment,2019-10-23,Moderate,Type 2 Diabetes,2021-06-04
+ST_P0601,86,Male,Vascular Dementia,2020-05-25,Mild,Osteoarthritis,2021-02-14
+ST_P0602,76,Female,Frontotemporal Dementia,2018-10-26,Mild,Depression; Type 2 Diabetes,2021-02-11
+ST_P0603,70,Female,Vascular Dementia,2018-09-16,Severe,Osteoarthritis; Hypertension,2021-05-15
+ST_P0604,58,Male,Lewy Body Dementia,2019-06-03,Severe,Osteoarthritis; Type 2 Diabetes,2021-02-24
+ST_P0605,77,Male,Frontotemporal Dementia,2019-02-26,Moderate,,2021-05-02
+ST_P0606,71,Female,Mild Cognitive Impairment,2017-04-22,Moderate,Osteoarthritis; Dyslipidemia,2021-03-19
+ST_P0607,72,Female,Alzheimer's Disease,2018-05-30,Mild,,2021-03-24
+ST_P0608,72,Female,Frontotemporal Dementia,2018-06-14,Mild,Depression; Hypertension,2021-01-26
+ST_P0609,71,Female,Vascular Dementia,2020-05-02,Mild,,2021-05-11
+ST_P0610,80,Female,Vascular Dementia,2019-10-11,Severe,,2021-05-23
+ST_P0611,76,Female,Vascular Dementia,2018-06-13,Mild,Hypertension,2021-06-18
+ST_P0612,71,Female,Vascular Dementia,2020-03-06,Severe,,2021-05-08
+ST_P0613,73,Male,Mild Cognitive Impairment,2018-03-14,Mild,Type 2 Diabetes; Osteoarthritis,2021-01-11
+ST_P0614,83,Female,Mild Cognitive Impairment,2020-02-14,Severe,Dyslipidemia; Hypertension,2021-05-17
+ST_P0615,76,Male,Frontotemporal Dementia,2019-03-21,Mild,Type 2 Diabetes; Dyslipidemia,2021-06-26
+ST_P0616,69,Male,Lewy Body Dementia,2017-01-14,Mild,,2021-02-11
+ST_P0617,79,Female,Lewy Body Dementia,2018-10-25,Moderate,Depression,2021-05-23
+ST_P0618,90,Female,Frontotemporal Dementia,2018-05-10,Severe,,2021-06-14
+ST_P0619,73,Male,Frontotemporal Dementia,2019-12-20,Severe,,2021-02-13
+ST_P0620,82,Female,Frontotemporal Dementia,2019-06-06,Severe,Hypertension,2021-03-14
+ST_P0621,68,Male,Lewy Body Dementia,2019-11-25,Moderate,,2021-02-10
+ST_P0622,79,Male,Alzheimer's Disease,2017-11-21,Mild,Type 2 Diabetes,2021-06-03
+ST_P0623,60,Female,Vascular Dementia,2017-11-05,Mild,,2021-02-24
+ST_P0624,80,Male,Lewy Body Dementia,2017-12-18,Moderate,Osteoarthritis,2021-04-16
+ST_P0625,79,Male,Frontotemporal Dementia,2020-09-25,Mild,,2021-06-27
+ST_P0626,77,Female,Vascular Dementia,2018-05-26,Mild,Type 2 Diabetes; Dyslipidemia,2021-03-16
+ST_P0627,92,Female,Frontotemporal Dementia,2018-02-09,Severe,,2021-06-08
+ST_P0628,78,Female,Lewy Body Dementia,2020-02-13,Moderate,,2021-01-19
+ST_P0629,81,Female,Vascular Dementia,2019-08-23,Severe,,2021-05-14
+ST_P0630,73,Female,Mild Cognitive Impairment,2017-12-05,Mild,Osteoarthritis,2021-06-28
+ST_P0631,79,Male,Vascular Dementia,2017-03-15,Mild,Type 2 Diabetes; Dyslipidemia,2021-02-23
+ST_P0632,68,Female,Frontotemporal Dementia,2017-05-22,Mild,Hypertension,2021-05-17
+ST_P0633,78,Female,Vascular Dementia,2019-05-07,Moderate,,2021-02-22
+ST_P0634,70,Female,Mild Cognitive Impairment,2019-07-01,Moderate,,2021-01-18
+ST_P0635,84,Male,Vascular Dementia,2019-07-10,Severe,Depression,2021-04-15
+ST_P0636,76,Female,Alzheimer's Disease,2017-10-14,Moderate,,2021-04-12
+ST_P0637,67,Female,Lewy Body Dementia,2018-10-28,Mild,,2021-03-12
+ST_P0638,74,Male,Mild Cognitive Impairment,2020-01-09,Moderate,,2021-03-23
+ST_P0639,75,Male,Alzheimer's Disease,2019-04-28,Mild,Hypertension,2021-01-22
+ST_P0640,70,Male,Lewy Body Dementia,2019-11-21,Severe,Depression,2021-05-05
+ST_P0641,79,Female,Vascular Dementia,2016-12-19,Moderate,Osteoarthritis; Hypertension,2021-01-22
+ST_P0642,77,Female,Alzheimer's Disease,2017-04-10,Mild,,2021-01-29
+ST_P0643,89,Male,Lewy Body Dementia,2019-01-21,Severe,Type 2 Diabetes; Hypertension,2021-06-21
+ST_P0644,84,Female,Alzheimer's Disease,2020-05-02,Moderate,,2021-04-28
+ST_P0645,72,Female,Vascular Dementia,2019-08-17,Mild,,2021-03-15
+ST_P0646,82,Male,Mild Cognitive Impairment,2018-08-24,Moderate,Dyslipidemia; Type 2 Diabetes,2021-03-13
+ST_P0647,77,Male,Mild Cognitive Impairment,2020-02-11,Moderate,,2021-04-08
+ST_P0648,80,Female,Vascular Dementia,2018-01-17,Mild,Hypertension; Osteoarthritis,2021-01-30
+ST_P0649,80,Male,Lewy Body Dementia,2017-07-22,Moderate,Osteoarthritis,2021-05-29
+ST_P0650,75,Male,Frontotemporal Dementia,2019-06-15,Mild,Hypertension; Depression,2021-06-05
+ST_P0651,82,Female,Lewy Body Dementia,2017-04-12,Severe,,2021-01-30
+ST_P0652,77,Female,Alzheimer's Disease,2019-09-03,Mild,Type 2 Diabetes; Hypertension,2021-02-26
+ST_P0653,66,Male,Frontotemporal Dementia,2020-08-17,Severe,,2021-04-19
+ST_P0654,76,Male,Frontotemporal Dementia,2020-04-14,Mild,,2021-04-01
+ST_P0655,69,Male,Vascular Dementia,2017-01-18,Severe,,2021-01-20
+ST_P0656,65,Female,Frontotemporal Dementia,2019-01-07,Mild,,2021-02-21
+ST_P0657,77,Male,Mild Cognitive Impairment,2020-03-18,Mild,Dyslipidemia; Depression,2021-01-12
+ST_P0658,66,Female,Frontotemporal Dementia,2019-09-19,Moderate,,2021-05-08
+ST_P0659,78,Male,Vascular Dementia,2017-07-10,Severe,Type 2 Diabetes; Depression,2021-03-27
+ST_P0660,78,Female,Frontotemporal Dementia,2017-11-02,Mild,Dyslipidemia; Osteoarthritis,2021-02-08
+ST_P0661,88,Male,Mild Cognitive Impairment,2019-04-02,Moderate,,2021-01-17
+ST_P0662,88,Female,Vascular Dementia,2019-06-29,Severe,Dyslipidemia; Osteoarthritis,2021-04-07
+ST_P0663,72,Female,Frontotemporal Dementia,2017-03-29,Moderate,,2021-02-13
+ST_P0664,71,Male,Lewy Body Dementia,2017-04-18,Severe,,2021-01-22
+ST_P0665,66,Female,Vascular Dementia,2018-11-19,Mild,,2021-04-06
+ST_P0666,79,Female,Mild Cognitive Impairment,2017-03-13,Moderate,Type 2 Diabetes; Depression,2021-03-09
+ST_P0667,78,Male,Frontotemporal Dementia,2017-06-12,Moderate,Osteoarthritis; Type 2 Diabetes,2021-04-01
+ST_P0668,74,Male,Alzheimer's Disease,2019-05-14,Moderate,Osteoarthritis; Dyslipidemia,2021-04-26
+ST_P0669,68,Male,Mild Cognitive Impairment,2019-10-28,Mild,,2021-01-13
+ST_P0670,75,Male,Lewy Body Dementia,2019-09-24,Severe,Dyslipidemia,2021-03-12
+ST_P0671,70,Male,Lewy Body Dementia,2020-02-15,Mild,Hypertension,2021-03-12
+ST_P0672,58,Female,Frontotemporal Dementia,2020-04-22,Severe,Depression,2021-05-19
+ST_P0673,83,Female,Frontotemporal Dementia,2020-03-09,Severe,,2021-01-13
+ST_P0674,77,Female,Lewy Body Dementia,2018-04-10,Moderate,Dyslipidemia,2021-03-04
+ST_P0675,66,Male,Vascular Dementia,2019-09-04,Severe,,2021-04-08
+ST_P0676,84,Male,Frontotemporal Dementia,2020-08-31,Moderate,,2021-06-13
+ST_P0677,80,Male,Alzheimer's Disease,2018-07-13,Severe,Depression; Hypertension,2021-03-15
+ST_P0678,78,Female,Lewy Body Dementia,2019-03-31,Mild,Hypertension; Dyslipidemia,2021-03-02
+ST_P0679,73,Female,Mild Cognitive Impairment,2017-11-18,Severe,Type 2 Diabetes,2021-04-18
+ST_P0680,63,Male,Frontotemporal Dementia,2017-10-26,Mild,Type 2 Diabetes; Depression,2021-01-14
+ST_P0681,78,Male,Alzheimer's Disease,2019-05-14,Mild,,2021-02-18
+ST_P0682,84,Female,Alzheimer's Disease,2018-06-14,Mild,Depression; Osteoarthritis,2021-05-20
+ST_P0683,67,Male,Mild Cognitive Impairment,2018-04-30,Severe,,2021-02-15
+ST_P0684,78,Female,Alzheimer's Disease,2019-03-15,Moderate,,2021-03-31
+ST_P0685,72,Male,Alzheimer's Disease,2019-07-31,Severe,Osteoarthritis; Depression,2021-03-29
+ST_P0686,73,Male,Vascular Dementia,2020-05-10,Mild,Dyslipidemia,2021-04-30
+ST_P0687,84,Male,Mild Cognitive Impairment,2018-05-15,Mild,Hypertension; Depression,2021-03-03
+ST_P0688,84,Male,Frontotemporal Dementia,2017-09-20,Severe,Hypertension; Depression,2021-01-13
+ST_P0689,72,Male,Mild Cognitive Impairment,2018-06-24,Severe,,2021-03-21
+ST_P0690,79,Male,Mild Cognitive Impairment,2018-10-21,Moderate,,2021-05-23
+ST_P0691,71,Male,Alzheimer's Disease,2017-08-26,Moderate,Osteoarthritis; Type 2 Diabetes,2021-02-20
+ST_P0692,63,Male,Mild Cognitive Impairment,2017-10-05,Mild,,2021-05-30
+ST_P0693,67,Male,Frontotemporal Dementia,2018-03-13,Severe,Depression,2021-01-28
+ST_P0694,71,Male,Lewy Body Dementia,2020-06-01,Severe,Type 2 Diabetes; Hypertension,2021-01-27
+ST_P0695,80,Female,Vascular Dementia,2018-10-30,Mild,Type 2 Diabetes; Osteoarthritis,2021-05-31
+ST_P0696,71,Female,Mild Cognitive Impairment,2019-01-16,Mild,Type 2 Diabetes; Dyslipidemia,2021-04-25
+ST_P0697,74,Male,Frontotemporal Dementia,2019-06-01,Moderate,,2021-01-29
+ST_P0698,80,Male,Frontotemporal Dementia,2017-06-22,Mild,Hypertension,2021-06-21
+ST_P0699,74,Male,Mild Cognitive Impairment,2019-05-06,Severe,,2021-03-30
+ST_P0700,75,Female,Alzheimer's Disease,2019-01-23,Mild,Osteoarthritis; Hypertension,2021-01-14
+ST_P0701,73,Male,Mild Cognitive Impairment,2017-07-19,Mild,,2021-06-23
+ST_P0702,84,Female,Frontotemporal Dementia,2019-04-03,Moderate,Depression,2021-02-25
+ST_P0703,73,Male,Frontotemporal Dementia,2019-01-27,Severe,,2021-02-12
+ST_P0704,81,Female,Mild Cognitive Impairment,2019-11-16,Mild,,2021-01-04
+ST_P0705,66,Male,Alzheimer's Disease,2018-03-05,Moderate,Dyslipidemia,2021-04-26
+ST_P0706,70,Male,Vascular Dementia,2020-02-11,Mild,,2021-06-10
+ST_P0707,91,Male,Lewy Body Dementia,2018-10-14,Moderate,,2021-03-23
+ST_P0708,73,Male,Mild Cognitive Impairment,2018-06-23,Mild,,2021-01-11
+ST_P0709,74,Female,Frontotemporal Dementia,2019-07-01,Mild,Osteoarthritis,2021-03-03
+ST_P0710,78,Female,Vascular Dementia,2018-10-21,Severe,,2021-04-25
+ST_P0711,62,Female,Mild Cognitive Impairment,2019-02-14,Moderate,,2021-01-18
+ST_P0712,76,Female,Frontotemporal Dementia,2018-11-01,Severe,Osteoarthritis; Depression,2021-06-19
+ST_P0713,72,Female,Frontotemporal Dementia,2018-04-03,Mild,,2021-03-15
+ST_P0714,85,Male,Lewy Body Dementia,2019-05-23,Moderate,Hypertension; Depression,2021-04-05
+ST_P0715,73,Female,Frontotemporal Dementia,2020-06-08,Severe,Depression,2021-05-13
+ST_P0716,67,Female,Mild Cognitive Impairment,2018-07-13,Moderate,,2021-06-04
+ST_P0717,68,Female,Mild Cognitive Impairment,2017-06-30,Severe,,2021-06-14
+ST_P0718,65,Female,Frontotemporal Dementia,2019-07-14,Moderate,,2021-02-16
+ST_P0719,85,Male,Vascular Dementia,2018-11-13,Moderate,,2021-06-26
+ST_P0720,78,Male,Mild Cognitive Impairment,2019-05-07,Mild,Dyslipidemia,2021-03-25
+ST_P0721,82,Female,Mild Cognitive Impairment,2020-03-15,Mild,Type 2 Diabetes,2021-01-07
+ST_P0722,66,Female,Alzheimer's Disease,2017-07-30,Moderate,,2021-04-30
+ST_P0723,71,Male,Mild Cognitive Impairment,2018-12-24,Mild,,2021-03-23
+ST_P0724,76,Male,Lewy Body Dementia,2017-05-16,Severe,,2021-01-31
+ST_P0725,71,Female,Frontotemporal Dementia,2017-01-09,Severe,Dyslipidemia; Hypertension,2021-01-12
+ST_P0726,65,Female,Frontotemporal Dementia,2018-05-04,Severe,,2021-03-15
+ST_P0727,73,Male,Mild Cognitive Impairment,2019-03-14,Moderate,Dyslipidemia; Osteoarthritis,2021-04-02
+ST_P0728,72,Female,Lewy Body Dementia,2018-06-09,Mild,,2021-02-06
+ST_P0729,73,Female,Lewy Body Dementia,2018-08-12,Severe,Osteoarthritis,2021-05-15
+ST_P0730,71,Female,Lewy Body Dementia,2019-03-05,Mild,,2021-03-30
+ST_P0731,80,Female,Vascular Dementia,2018-07-11,Mild,Hypertension; Osteoarthritis,2021-03-11
+ST_P0732,68,Male,Vascular Dementia,2017-07-02,Severe,,2021-06-10
+ST_P0733,72,Male,Alzheimer's Disease,2019-07-29,Moderate,Type 2 Diabetes; Dyslipidemia,2021-02-05
+ST_P0734,79,Female,Frontotemporal Dementia,2019-12-15,Moderate,,2021-02-26
+ST_P0735,86,Female,Lewy Body Dementia,2018-11-09,Moderate,Osteoarthritis; Hypertension,2021-04-13
+ST_P0736,83,Female,Alzheimer's Disease,2020-06-16,Severe,Hypertension; Depression,2021-04-09
+ST_P0737,79,Male,Vascular Dementia,2018-11-03,Moderate,,2021-02-02
+ST_P0738,82,Male,Frontotemporal Dementia,2018-11-16,Severe,,2021-05-25
+ST_P0739,87,Male,Alzheimer's Disease,2018-08-17,Moderate,,2021-03-19
+ST_P0740,73,Female,Alzheimer's Disease,2020-07-21,Moderate,,2021-05-11
+ST_P0741,67,Female,Frontotemporal Dementia,2017-04-25,Severe,,2021-04-19
+ST_P0742,63,Male,Lewy Body Dementia,2020-09-28,Moderate,Dyslipidemia; Osteoarthritis,2021-06-05
+ST_P0743,77,Female,Vascular Dementia,2019-06-16,Moderate,,2021-01-15
+ST_P0744,68,Female,Lewy Body Dementia,2018-02-08,Severe,Type 2 Diabetes,2021-03-21
+ST_P0745,71,Female,Mild Cognitive Impairment,2019-02-27,Severe,,2021-04-30
+ST_P0746,64,Female,Vascular Dementia,2018-10-13,Mild,Depression; Hypertension,2021-06-16
+ST_P0747,77,Male,Lewy Body Dementia,2020-05-27,Mild,,2021-06-09
+ST_P0748,84,Female,Mild Cognitive Impairment,2017-05-22,Mild,,2021-05-20
+ST_P0749,74,Female,Lewy Body Dementia,2019-06-23,Moderate,Osteoarthritis,2021-05-15
+ST_P0750,58,Female,Alzheimer's Disease,2017-06-10,Moderate,Osteoarthritis; Hypertension,2021-06-23
+ST_P0751,85,Female,Frontotemporal Dementia,2019-04-30,Mild,Hypertension; Dyslipidemia,2021-04-27
+ST_P0752,87,Male,Alzheimer's Disease,2018-12-27,Severe,,2021-04-14
+ST_P0753,80,Female,Frontotemporal Dementia,2020-06-15,Severe,Type 2 Diabetes; Hypertension,2021-05-18
+ST_P0754,86,Female,Frontotemporal Dementia,2019-08-31,Moderate,Dyslipidemia; Hypertension,2021-03-18
+ST_P0755,71,Female,Lewy Body Dementia,2019-05-07,Moderate,Hypertension,2021-01-11
+ST_P0756,77,Female,Vascular Dementia,2018-04-12,Severe,Osteoarthritis; Hypertension,2021-03-16
+ST_P0757,71,Male,Alzheimer's Disease,2020-02-01,Severe,,2021-03-28
+ST_P0758,83,Female,Alzheimer's Disease,2020-07-18,Moderate,,2021-06-09
+ST_P0759,80,Male,Frontotemporal Dementia,2018-08-11,Severe,,2021-02-07
+ST_P0760,66,Female,Vascular Dementia,2020-01-08,Severe,Depression,2021-05-23
+ST_P0761,83,Male,Vascular Dementia,2017-09-18,Moderate,Depression,2021-03-08
+ST_P0762,85,Male,Frontotemporal Dementia,2017-03-22,Mild,,2021-03-05
+ST_P0763,82,Male,Frontotemporal Dementia,2019-03-31,Mild,,2021-01-17
+ST_P0764,78,Male,Frontotemporal Dementia,2020-08-27,Severe,,2021-06-18
+ST_P0765,74,Female,Frontotemporal Dementia,2018-08-23,Mild,Hypertension; Type 2 Diabetes,2021-04-03
+ST_P0766,89,Female,Lewy Body Dementia,2018-10-01,Moderate,Hypertension; Osteoarthritis,2021-03-02
+ST_P0767,77,Male,Alzheimer's Disease,2018-03-21,Mild,,2021-01-11
+ST_P0768,82,Female,Lewy Body Dementia,2019-12-08,Mild,Type 2 Diabetes,2021-03-07
+ST_P0769,70,Female,Vascular Dementia,2017-07-11,Moderate,Dyslipidemia,2021-01-17
+ST_P0770,83,Male,Mild Cognitive Impairment,2018-06-22,Moderate,Type 2 Diabetes,2021-06-07
+ST_P0771,84,Male,Mild Cognitive Impairment,2018-04-23,Mild,Dyslipidemia,2021-05-11
+ST_P0772,68,Male,Lewy Body Dementia,2019-03-17,Mild,Dyslipidemia; Osteoarthritis,2021-06-17
+ST_P0773,72,Male,Vascular Dementia,2018-05-10,Moderate,,2021-05-04
+ST_P0774,69,Male,Alzheimer's Disease,2020-01-24,Moderate,Osteoarthritis; Type 2 Diabetes,2021-06-30
+ST_P0775,89,Female,Frontotemporal Dementia,2019-04-10,Mild,Depression,2021-03-19
+ST_P0776,84,Male,Lewy Body Dementia,2019-01-31,Severe,,2021-04-27
+ST_P0777,68,Male,Vascular Dementia,2019-05-23,Severe,,2021-06-11
+ST_P0778,69,Male,Frontotemporal Dementia,2017-11-08,Mild,Osteoarthritis; Dyslipidemia,2021-04-29
+ST_P0779,79,Female,Vascular Dementia,2019-10-10,Mild,,2021-02-18
+ST_P0780,72,Female,Lewy Body Dementia,2019-02-08,Moderate,,2021-06-26
+ST_P0781,80,Female,Lewy Body Dementia,2019-08-15,Moderate,,2021-05-30
+ST_P0782,77,Male,Vascular Dementia,2019-06-05,Moderate,,2021-05-03
+ST_P0783,81,Male,Lewy Body Dementia,2018-07-24,Moderate,Dyslipidemia,2021-01-14
+ST_P0784,83,Male,Frontotemporal Dementia,2020-08-08,Moderate,Type 2 Diabetes; Hypertension,2021-05-02
+ST_P0785,87,Female,Lewy Body Dementia,2017-10-31,Moderate,,2021-06-01
+ST_P0786,76,Female,Frontotemporal Dementia,2019-03-02,Mild,,2021-03-29
+ST_P0787,67,Male,Frontotemporal Dementia,2019-11-21,Mild,,2021-01-11
+ST_P0788,82,Female,Mild Cognitive Impairment,2018-08-06,Mild,Dyslipidemia; Depression,2021-01-08
+ST_P0789,76,Female,Frontotemporal Dementia,2020-02-14,Severe,,2021-01-30
+ST_P0790,85,Male,Frontotemporal Dementia,2018-12-14,Moderate,Osteoarthritis,2021-01-05
+ST_P0791,82,Male,Mild Cognitive Impairment,2019-11-23,Severe,,2021-01-12
+ST_P0792,59,Male,Lewy Body Dementia,2019-05-16,Severe,,2021-03-31
+ST_P0793,74,Female,Mild Cognitive Impairment,2019-04-22,Moderate,Type 2 Diabetes; Depression,2021-06-16
+ST_P0794,82,Female,Mild Cognitive Impairment,2020-05-25,Mild,Osteoarthritis,2021-06-21
+ST_P0795,74,Male,Mild Cognitive Impairment,2019-04-08,Moderate,Osteoarthritis; Type 2 Diabetes,2021-05-12
+ST_P0796,59,Female,Lewy Body Dementia,2019-03-31,Moderate,,2021-05-15
+ST_P0797,83,Male,Vascular Dementia,2020-02-26,Mild,Depression; Hypertension,2021-01-24
+ST_P0798,70,Female,Vascular Dementia,2018-03-25,Mild,Hypertension; Dyslipidemia,2021-02-03
+ST_P0799,67,Male,Vascular Dementia,2018-12-20,Mild,,2021-05-31
+ST_P0800,78,Male,Vascular Dementia,2019-02-19,Severe,Osteoarthritis; Dyslipidemia,2021-02-23
+ST_P0801,68,Female,Frontotemporal Dementia,2018-08-18,Mild,Hypertension,2021-01-27
+ST_P0802,79,Male,Alzheimer's Disease,2020-04-25,Moderate,,2021-04-08
+ST_P0803,81,Male,Frontotemporal Dementia,2017-07-26,Severe,,2021-06-30
+ST_P0804,73,Female,Frontotemporal Dementia,2019-01-23,Mild,Osteoarthritis,2021-05-03
+ST_P0805,84,Female,Alzheimer's Disease,2017-09-23,Moderate,Depression,2021-04-22
+ST_P0806,83,Male,Lewy Body Dementia,2017-12-10,Mild,,2021-01-27
+ST_P0807,72,Male,Mild Cognitive Impairment,2020-01-05,Severe,,2021-02-14
+ST_P0808,83,Male,Alzheimer's Disease,2019-06-09,Mild,,2021-05-19
+ST_P0809,79,Male,Vascular Dementia,2020-06-27,Severe,,2021-03-13
+ST_P0810,75,Male,Mild Cognitive Impairment,2020-01-24,Mild,,2021-06-13
+ST_P0811,77,Female,Lewy Body Dementia,2020-02-03,Moderate,,2021-03-06
+ST_P0812,74,Female,Lewy Body Dementia,2018-08-15,Severe,,2021-01-03
+ST_P0813,86,Female,Alzheimer's Disease,2017-10-29,Mild,,2021-03-14
+ST_P0814,72,Female,Alzheimer's Disease,2018-01-27,Severe,Osteoarthritis,2021-01-07
+ST_P0815,78,Male,Mild Cognitive Impairment,2019-01-12,Moderate,Dyslipidemia,2021-01-25
+ST_P0816,78,Female,Frontotemporal Dementia,2017-04-12,Severe,Type 2 Diabetes; Osteoarthritis,2021-04-10
+ST_P0817,78,Female,Mild Cognitive Impairment,2019-11-16,Moderate,,2021-05-15
+ST_P0818,72,Female,Alzheimer's Disease,2019-09-15,Mild,Type 2 Diabetes,2021-06-03
+ST_P0819,82,Male,Lewy Body Dementia,2019-01-06,Severe,,2021-04-04
+ST_P0820,74,Male,Lewy Body Dementia,2018-03-27,Moderate,,2021-05-12
+ST_P0821,90,Female,Lewy Body Dementia,2020-02-24,Mild,,2021-05-25
+ST_P0822,72,Female,Frontotemporal Dementia,2018-01-08,Severe,Hypertension,2021-02-09
+ST_P0823,66,Female,Lewy Body Dementia,2017-07-05,Severe,,2021-04-19
+ST_P0824,87,Male,Frontotemporal Dementia,2017-09-07,Moderate,Osteoarthritis; Dyslipidemia,2021-05-26
+ST_P0825,81,Female,Mild Cognitive Impairment,2018-05-07,Mild,,2021-05-24
+ST_P0826,77,Male,Lewy Body Dementia,2020-07-23,Moderate,,2021-04-07
+ST_P0827,81,Male,Frontotemporal Dementia,2020-05-27,Moderate,Osteoarthritis; Depression,2021-01-28
+ST_P0828,84,Female,Vascular Dementia,2019-03-24,Mild,Hypertension; Type 2 Diabetes,2021-01-25
+ST_P0829,83,Male,Frontotemporal Dementia,2018-01-17,Severe,Type 2 Diabetes; Hypertension,2021-02-04
+ST_P0830,77,Male,Lewy Body Dementia,2019-06-07,Mild,,2021-06-01
+ST_P0831,58,Female,Vascular Dementia,2019-03-24,Mild,Hypertension,2021-05-10
+ST_P0832,75,Female,Vascular Dementia,2020-01-02,Moderate,Depression,2021-03-26
+ST_P0833,83,Male,Mild Cognitive Impairment,2020-06-01,Mild,Depression,2021-04-23
+ST_P0834,77,Female,Mild Cognitive Impairment,2018-04-11,Mild,,2021-05-27
+ST_P0835,85,Male,Vascular Dementia,2019-04-04,Mild,Hypertension,2021-03-07
+ST_P0836,85,Female,Vascular Dementia,2018-03-03,Severe,,2021-02-18
+ST_P0837,71,Male,Lewy Body Dementia,2018-09-20,Severe,Type 2 Diabetes; Osteoarthritis,2021-03-31
+ST_P0838,86,Female,Lewy Body Dementia,2019-04-04,Moderate,Dyslipidemia,2021-01-06
+ST_P0839,71,Male,Vascular Dementia,2019-03-28,Moderate,Hypertension; Dyslipidemia,2021-05-28
+ST_P0840,74,Female,Alzheimer's Disease,2017-08-01,Severe,,2021-06-20
+ST_P0841,68,Male,Vascular Dementia,2017-05-01,Severe,,2021-04-26
+ST_P0842,62,Female,Frontotemporal Dementia,2020-04-19,Moderate,,2021-02-23
+ST_P0843,76,Female,Alzheimer's Disease,2019-03-15,Mild,,2021-04-10
+ST_P0844,74,Male,Mild Cognitive Impairment,2019-12-31,Moderate,Osteoarthritis,2021-02-22
+ST_P0845,73,Male,Mild Cognitive Impairment,2017-11-27,Moderate,Osteoarthritis; Depression,2021-05-09
+ST_P0846,66,Female,Frontotemporal Dementia,2019-12-01,Severe,Dyslipidemia; Hypertension,2021-05-29
+ST_P0847,75,Male,Vascular Dementia,2019-12-02,Severe,,2021-03-25
+ST_P0848,75,Male,Vascular Dementia,2017-12-12,Mild,Depression; Type 2 Diabetes,2021-01-29
+ST_P0849,69,Female,Lewy Body Dementia,2020-02-21,Moderate,Dyslipidemia; Osteoarthritis,2021-06-28
+ST_P0850,79,Male,Frontotemporal Dementia,2020-06-17,Severe,,2021-03-30
+ST_P0851,71,Male,Frontotemporal Dementia,2019-11-08,Mild,Depression,2021-01-24
+ST_P0852,67,Male,Lewy Body Dementia,2018-01-07,Mild,,2021-04-07
+ST_P0853,76,Female,Mild Cognitive Impairment,2018-04-24,Severe,,2021-05-16
+ST_P0854,85,Male,Vascular Dementia,2018-06-15,Moderate,Dyslipidemia; Depression,2021-05-05
+ST_P0855,63,Female,Frontotemporal Dementia,2018-02-05,Mild,Depression; Osteoarthritis,2021-02-26
+ST_P0856,71,Male,Mild Cognitive Impairment,2019-11-30,Severe,,2021-01-30
+ST_P0857,67,Female,Frontotemporal Dementia,2019-10-14,Severe,,2021-03-28
+ST_P0858,88,Male,Mild Cognitive Impairment,2018-08-22,Mild,,2021-05-13
+ST_P0859,79,Male,Alzheimer's Disease,2018-02-10,Mild,,2021-02-01
+ST_P0860,65,Male,Alzheimer's Disease,2019-07-21,Moderate,,2021-01-17
+ST_P0861,64,Male,Lewy Body Dementia,2020-06-01,Mild,,2021-02-08
+ST_P0862,70,Female,Frontotemporal Dementia,2018-06-18,Moderate,Type 2 Diabetes; Dyslipidemia,2021-05-29
+ST_P0863,74,Female,Vascular Dementia,2017-11-30,Mild,Hypertension; Osteoarthritis,2021-05-12
+ST_P0864,81,Male,Mild Cognitive Impairment,2018-01-06,Moderate,,2021-06-19
+ST_P0865,71,Female,Frontotemporal Dementia,2020-07-31,Mild,Type 2 Diabetes,2021-04-10
+ST_P0866,82,Male,Vascular Dementia,2018-02-08,Mild,,2021-05-14
+ST_P0867,80,Female,Vascular Dementia,2019-04-22,Severe,,2021-03-15
+ST_P0868,76,Female,Mild Cognitive Impairment,2019-04-29,Moderate,,2021-02-11
+ST_P0869,77,Female,Alzheimer's Disease,2019-04-07,Severe,,2021-05-17
+ST_P0870,83,Male,Vascular Dementia,2019-07-06,Mild,,2021-02-14
+ST_P0871,72,Female,Frontotemporal Dementia,2018-11-01,Severe,,2021-05-25
+ST_P0872,79,Male,Mild Cognitive Impairment,2019-05-03,Severe,,2021-05-12
+ST_P0873,74,Female,Frontotemporal Dementia,2018-04-24,Mild,,2021-04-27
+ST_P0874,75,Female,Lewy Body Dementia,2017-03-25,Moderate,,2021-01-27
+ST_P0875,72,Male,Mild Cognitive Impairment,2018-05-03,Mild,Depression,2021-04-29
+ST_P0876,82,Female,Alzheimer's Disease,2020-05-27,Mild,Hypertension,2021-02-27
+ST_P0877,66,Male,Vascular Dementia,2018-03-07,Severe,,2021-06-12
+ST_P0878,83,Female,Vascular Dementia,2019-06-01,Severe,,2021-02-13
+ST_P0879,72,Female,Mild Cognitive Impairment,2017-03-14,Severe,Depression,2021-04-16
+ST_P0880,89,Female,Mild Cognitive Impairment,2020-07-01,Mild,,2021-04-02
+ST_P0881,72,Male,Lewy Body Dementia,2017-09-02,Mild,,2021-05-07
+ST_P0882,86,Male,Alzheimer's Disease,2019-08-18,Moderate,,2021-03-25
+ST_P0883,69,Female,Mild Cognitive Impairment,2018-05-09,Severe,Osteoarthritis; Hypertension,2021-03-06
+ST_P0884,79,Male,Vascular Dementia,2017-11-24,Mild,Type 2 Diabetes; Dyslipidemia,2021-05-18
+ST_P0885,73,Female,Mild Cognitive Impairment,2017-04-06,Severe,,2021-02-14
+ST_P0886,85,Male,Mild Cognitive Impairment,2018-05-29,Mild,,2021-02-04
+ST_P0887,72,Female,Alzheimer's Disease,2018-03-28,Moderate,,2021-04-09
+ST_P0888,79,Female,Mild Cognitive Impairment,2019-05-16,Severe,Osteoarthritis,2021-01-25
+ST_P0889,73,Female,Lewy Body Dementia,2017-02-19,Mild,Hypertension; Type 2 Diabetes,2021-03-02
+ST_P0890,84,Male,Vascular Dementia,2018-12-12,Moderate,,2021-04-16
+ST_P0891,74,Female,Vascular Dementia,2020-03-06,Mild,Depression,2021-04-25
+ST_P0892,66,Male,Frontotemporal Dementia,2020-04-02,Mild,,2021-04-14
+ST_P0893,81,Male,Lewy Body Dementia,2018-12-11,Moderate,Dyslipidemia; Depression,2021-01-20
+ST_P0894,81,Male,Vascular Dementia,2019-02-24,Mild,,2021-01-28
+ST_P0895,79,Female,Alzheimer's Disease,2018-08-12,Mild,Hypertension,2021-04-09
+ST_P0896,79,Female,Vascular Dementia,2019-12-22,Mild,Dyslipidemia,2021-02-05
+ST_P0897,83,Male,Alzheimer's Disease,2019-02-21,Severe,,2021-04-04
+ST_P0898,75,Male,Frontotemporal Dementia,2019-05-13,Moderate,Depression,2021-01-20
+ST_P0899,77,Female,Frontotemporal Dementia,2018-02-09,Mild,,2021-02-18
+ST_P0900,78,Female,Lewy Body Dementia,2017-12-31,Moderate,,2021-05-17
+ST_P0901,75,Male,Alzheimer's Disease,2020-05-27,Mild,,2021-06-11
+ST_P0902,72,Female,Mild Cognitive Impairment,2017-12-15,Severe,,2021-01-25
+ST_P0903,75,Male,Mild Cognitive Impairment,2017-12-26,Moderate,Osteoarthritis,2021-05-12
+ST_P0904,75,Female,Mild Cognitive Impairment,2017-10-18,Mild,Osteoarthritis,2021-03-19
+ST_P0905,80,Male,Mild Cognitive Impairment,2017-11-17,Mild,Dyslipidemia,2021-04-04
+ST_P0906,74,Female,Frontotemporal Dementia,2020-09-25,Moderate,,2021-05-26
+ST_P0907,84,Female,Mild Cognitive Impairment,2019-10-01,Moderate,,2021-06-09
+ST_P0908,74,Female,Vascular Dementia,2019-05-27,Moderate,,2021-04-16
+ST_P0909,80,Male,Vascular Dementia,2019-02-18,Moderate,Type 2 Diabetes,2021-06-07
+ST_P0910,72,Female,Alzheimer's Disease,2019-05-22,Severe,,2021-03-08
+ST_P0911,72,Male,Lewy Body Dementia,2019-07-16,Mild,,2021-04-06
+ST_P0912,82,Female,Mild Cognitive Impairment,2020-09-01,Severe,Dyslipidemia; Hypertension,2021-04-23
+ST_P0913,68,Female,Lewy Body Dementia,2017-06-28,Moderate,,2021-03-10
+ST_P0914,76,Male,Frontotemporal Dementia,2019-12-28,Moderate,Depression; Osteoarthritis,2021-02-28
+ST_P0915,82,Male,Vascular Dementia,2019-12-01,Severe,,2021-01-17
+ST_P0916,78,Female,Vascular Dementia,2020-06-30,Severe,Dyslipidemia; Hypertension,2021-02-13
+ST_P0917,78,Male,Lewy Body Dementia,2020-07-06,Severe,Type 2 Diabetes,2021-05-10
+ST_P0918,67,Female,Vascular Dementia,2019-04-07,Moderate,,2021-03-30
+ST_P0919,67,Female,Alzheimer's Disease,2018-06-30,Moderate,Dyslipidemia; Osteoarthritis,2021-01-17
+ST_P0920,75,Female,Lewy Body Dementia,2018-06-23,Mild,,2021-06-24
+ST_P0921,80,Male,Lewy Body Dementia,2020-01-29,Moderate,,2021-03-08
+ST_P0922,75,Male,Lewy Body Dementia,2020-01-16,Moderate,,2021-06-02
+ST_P0923,69,Male,Vascular Dementia,2017-09-11,Moderate,Hypertension,2021-06-27
+ST_P0924,72,Male,Alzheimer's Disease,2017-07-12,Severe,,2021-01-29
+ST_P0925,78,Male,Lewy Body Dementia,2019-10-14,Moderate,Dyslipidemia; Hypertension,2021-06-27
+ST_P0926,72,Male,Alzheimer's Disease,2019-12-13,Moderate,Type 2 Diabetes,2021-01-25
+ST_P0927,73,Female,Vascular Dementia,2017-05-15,Severe,,2021-06-01
+ST_P0928,76,Male,Mild Cognitive Impairment,2017-07-08,Severe,,2021-02-28
+ST_P0929,93,Male,Lewy Body Dementia,2020-04-01,Moderate,,2021-01-01
+ST_P0930,71,Female,Frontotemporal Dementia,2018-07-28,Moderate,,2021-03-22
+ST_P0931,72,Male,Mild Cognitive Impairment,2018-04-20,Moderate,,2021-04-03
+ST_P0932,71,Female,Alzheimer's Disease,2018-04-03,Moderate,,2021-04-05
+ST_P0933,66,Female,Mild Cognitive Impairment,2020-08-31,Mild,,2021-05-16
+ST_P0934,71,Male,Alzheimer's Disease,2019-09-03,Moderate,,2021-06-21
+ST_P0935,77,Male,Lewy Body Dementia,2017-06-05,Moderate,Depression; Hypertension,2021-05-29
+ST_P0936,80,Female,Alzheimer's Disease,2020-06-12,Severe,Depression; Dyslipidemia,2021-01-01
+ST_P0937,66,Male,Lewy Body Dementia,2019-06-19,Severe,Type 2 Diabetes; Depression,2021-02-28
+ST_P0938,84,Male,Frontotemporal Dementia,2019-08-29,Moderate,,2021-06-23
+ST_P0939,76,Female,Lewy Body Dementia,2020-01-17,Moderate,Dyslipidemia,2021-06-22
+ST_P0940,75,Male,Vascular Dementia,2019-06-23,Moderate,,2021-04-18
+ST_P0941,84,Female,Vascular Dementia,2018-09-26,Mild,,2021-05-30
+ST_P0942,69,Male,Vascular Dementia,2017-09-09,Severe,,2021-03-23
+ST_P0943,65,Male,Lewy Body Dementia,2020-09-05,Mild,,2021-04-17
+ST_P0944,73,Male,Frontotemporal Dementia,2018-01-10,Moderate,,2021-05-12
+ST_P0945,67,Male,Mild Cognitive Impairment,2020-03-25,Mild,,2021-06-20
+ST_P0946,78,Male,Alzheimer's Disease,2017-09-18,Severe,Dyslipidemia,2021-01-08
+ST_P0947,84,Male,Frontotemporal Dementia,2019-01-13,Moderate,,2021-06-05
+ST_P0948,79,Male,Lewy Body Dementia,2018-07-04,Moderate,Type 2 Diabetes; Osteoarthritis,2021-03-08
+ST_P0949,83,Female,Frontotemporal Dementia,2018-07-29,Severe,Osteoarthritis,2021-01-17
+ST_P0950,80,Female,Lewy Body Dementia,2017-10-22,Moderate,,2021-05-01
+ST_P0951,78,Male,Mild Cognitive Impairment,2019-03-23,Moderate,Osteoarthritis; Depression,2021-02-06
+ST_P0952,83,Female,Frontotemporal Dementia,2020-02-25,Severe,,2021-06-27
+ST_P0953,64,Female,Vascular Dementia,2017-07-28,Mild,Depression; Hypertension,2021-06-06
+ST_P0954,77,Female,Lewy Body Dementia,2018-10-10,Moderate,Type 2 Diabetes; Dyslipidemia,2021-04-17
+ST_P0955,80,Male,Lewy Body Dementia,2019-12-22,Mild,,2021-05-29
+ST_P0956,81,Female,Lewy Body Dementia,2018-04-20,Moderate,Dyslipidemia,2021-01-31
+ST_P0957,70,Female,Alzheimer's Disease,2018-01-04,Severe,Dyslipidemia; Osteoarthritis,2021-04-08
+ST_P0958,76,Male,Lewy Body Dementia,2018-12-15,Mild,,2021-06-05
+ST_P0959,76,Male,Mild Cognitive Impairment,2019-10-14,Mild,Depression,2021-03-21
+ST_P0960,86,Female,Lewy Body Dementia,2019-11-03,Moderate,,2021-02-15
+ST_P0961,79,Male,Mild Cognitive Impairment,2018-12-10,Severe,,2021-06-29
+ST_P0962,68,Male,Mild Cognitive Impairment,2017-05-15,Moderate,,2021-01-27
+ST_P0963,86,Male,Vascular Dementia,2019-01-29,Moderate,,2021-02-09
+ST_P0964,76,Female,Frontotemporal Dementia,2019-12-28,Severe,Type 2 Diabetes,2021-01-24
+ST_P0965,78,Male,Vascular Dementia,2018-05-05,Moderate,,2021-04-15
+ST_P0966,71,Female,Alzheimer's Disease,2017-09-27,Mild,Type 2 Diabetes,2021-05-12
+ST_P0967,84,Female,Alzheimer's Disease,2020-04-01,Severe,Depression,2021-02-13
+ST_P0968,82,Female,Frontotemporal Dementia,2018-09-14,Moderate,Dyslipidemia; Hypertension,2021-06-23
+ST_P0969,85,Female,Mild Cognitive Impairment,2017-10-08,Mild,,2021-05-26
+ST_P0970,63,Male,Mild Cognitive Impairment,2018-03-08,Mild,Dyslipidemia,2021-01-11
+ST_P0971,67,Male,Lewy Body Dementia,2017-03-01,Moderate,,2021-03-13
+ST_P0972,72,Female,Frontotemporal Dementia,2019-06-15,Mild,Dyslipidemia; Depression,2021-01-14
+ST_P0973,77,Male,Mild Cognitive Impairment,2019-04-28,Moderate,Dyslipidemia,2021-03-04
+ST_P0974,73,Female,Mild Cognitive Impairment,2019-02-03,Moderate,Depression; Hypertension,2021-03-24
+ST_P0975,77,Female,Lewy Body Dementia,2018-04-09,Severe,Osteoarthritis; Hypertension,2021-06-29
+ST_P0976,74,Female,Vascular Dementia,2017-09-16,Severe,,2021-04-19
+ST_P0977,68,Male,Alzheimer's Disease,2020-01-26,Mild,,2021-03-11
+ST_P0978,75,Female,Vascular Dementia,2019-10-03,Moderate,,2021-05-28
+ST_P0979,72,Male,Vascular Dementia,2019-02-07,Severe,,2021-01-14
+ST_P0980,68,Female,Lewy Body Dementia,2019-01-05,Moderate,Osteoarthritis; Depression,2021-03-06
+ST_P0981,77,Male,Frontotemporal Dementia,2020-07-22,Moderate,Depression; Osteoarthritis,2021-03-31
+ST_P0982,76,Female,Frontotemporal Dementia,2019-01-28,Mild,Osteoarthritis,2021-02-28
+ST_P0983,74,Male,Mild Cognitive Impairment,2019-12-19,Severe,Depression,2021-02-03
+ST_P0984,76,Female,Frontotemporal Dementia,2019-10-04,Moderate,Hypertension,2021-02-25
+ST_P0985,84,Male,Vascular Dementia,2018-09-26,Mild,Dyslipidemia,2021-05-25
+ST_P0986,74,Male,Mild Cognitive Impairment,2017-04-09,Severe,Hypertension,2021-01-28
+ST_P0987,65,Female,Vascular Dementia,2019-07-13,Severe,Type 2 Diabetes; Depression,2021-05-10
+ST_P0988,71,Female,Vascular Dementia,2019-03-01,Severe,,2021-03-16
+ST_P0989,76,Female,Lewy Body Dementia,2018-04-20,Mild,,2021-06-16
+ST_P0990,90,Female,Mild Cognitive Impairment,2017-11-25,Mild,,2021-06-13
+ST_P0991,71,Female,Alzheimer's Disease,2018-04-28,Mild,Type 2 Diabetes; Hypertension,2021-02-12
+ST_P0992,66,Male,Lewy Body Dementia,2017-06-29,Mild,Dyslipidemia,2021-05-07
+ST_P0993,71,Male,Vascular Dementia,2019-06-24,Moderate,,2021-02-25
+ST_P0994,77,Female,Alzheimer's Disease,2019-06-07,Severe,,2021-01-02
+ST_P0995,73,Female,Vascular Dementia,2019-04-13,Moderate,Hypertension; Type 2 Diabetes,2021-04-16
+ST_P0996,76,Female,Alzheimer's Disease,2020-09-24,Mild,Dyslipidemia; Osteoarthritis,2021-06-26
+ST_P0997,77,Male,Mild Cognitive Impairment,2019-05-02,Severe,,2021-04-03
+ST_P0998,71,Female,Vascular Dementia,2019-11-09,Severe,,2021-03-05
+ST_P0999,74,Female,Mild Cognitive Impairment,2017-12-17,Moderate,Hypertension; Depression,2021-06-30
+ST_P1000,60,Female,Frontotemporal Dementia,2019-03-21,Severe,Dyslipidemia; Osteoarthritis,2021-02-28
+ST_P1001,72,Male,Frontotemporal Dementia,2018-07-21,Severe,Depression; Osteoarthritis,2021-03-17
+ST_P1002,73,Male,Mild Cognitive Impairment,2017-05-07,Moderate,,2021-01-20
+ST_P1003,69,Male,Frontotemporal Dementia,2018-03-04,Mild,Dyslipidemia; Osteoarthritis,2021-05-09
+ST_P1004,77,Female,Vascular Dementia,2019-06-23,Moderate,,2021-01-23
+ST_P1005,70,Female,Alzheimer's Disease,2019-09-17,Mild,Type 2 Diabetes,2021-03-10
+ST_P1006,84,Male,Vascular Dementia,2019-02-25,Moderate,Dyslipidemia; Depression,2021-02-01
+ST_P1007,68,Female,Alzheimer's Disease,2019-12-11,Mild,Type 2 Diabetes; Hypertension,2021-02-18
+ST_P1008,66,Female,Mild Cognitive Impairment,2016-12-26,Moderate,,2021-01-09
+ST_P1009,81,Female,Vascular Dementia,2017-08-28,Moderate,Osteoarthritis; Dyslipidemia,2021-06-04
+ST_P1010,69,Male,Frontotemporal Dementia,2019-06-27,Mild,,2021-06-16
+ST_P1011,77,Female,Alzheimer's Disease,2018-08-06,Moderate,Hypertension; Depression,2021-03-13
+ST_P1012,73,Female,Alzheimer's Disease,2017-09-14,Severe,,2021-05-07
+ST_P1013,89,Male,Mild Cognitive Impairment,2019-12-17,Severe,Hypertension; Depression,2021-04-15
+ST_P1014,72,Female,Lewy Body Dementia,2016-12-30,Moderate,,2021-01-14
+ST_P1015,65,Female,Mild Cognitive Impairment,2018-11-29,Moderate,,2021-01-26
+ST_P1016,84,Male,Frontotemporal Dementia,2019-08-02,Severe,,2021-01-17
+ST_P1017,68,Male,Vascular Dementia,2019-05-31,Severe,,2021-04-07
+ST_P1018,83,Female,Mild Cognitive Impairment,2019-04-10,Severe,Dyslipidemia; Type 2 Diabetes,2021-05-09
+ST_P1019,72,Female,Frontotemporal Dementia,2017-12-11,Mild,,2021-06-11
+ST_P1020,66,Female,Frontotemporal Dementia,2017-08-23,Severe,,2021-05-08
+ST_P1021,81,Female,Mild Cognitive Impairment,2019-05-30,Moderate,,2021-01-04
+ST_P1022,82,Female,Mild Cognitive Impairment,2018-07-01,Moderate,Depression,2021-06-27
+ST_P1023,80,Male,Vascular Dementia,2019-11-09,Moderate,,2021-04-09
+ST_P1024,81,Male,Mild Cognitive Impairment,2017-03-22,Moderate,,2021-04-14
+ST_P1025,77,Female,Lewy Body Dementia,2017-05-16,Moderate,,2021-02-22
+ST_P1026,74,Male,Alzheimer's Disease,2017-05-22,Severe,,2021-03-11
+ST_P1027,72,Male,Frontotemporal Dementia,2017-06-13,Moderate,,2021-06-18
+ST_P1028,90,Male,Alzheimer's Disease,2019-06-14,Mild,,2021-06-14
+ST_P1029,69,Male,Lewy Body Dementia,2017-07-15,Severe,Dyslipidemia,2021-01-08
+ST_P1030,77,Female,Vascular Dementia,2019-07-29,Moderate,Type 2 Diabetes; Depression,2021-01-27
+ST_P1031,79,Male,Alzheimer's Disease,2017-07-16,Severe,Type 2 Diabetes,2021-02-27
+ST_P1032,84,Female,Vascular Dementia,2019-02-09,Severe,,2021-03-13
+ST_P1033,71,Male,Lewy Body Dementia,2020-03-31,Mild,Dyslipidemia,2021-06-03
+ST_P1034,80,Male,Mild Cognitive Impairment,2017-02-17,Mild,,2021-01-06
+ST_P1035,78,Female,Mild Cognitive Impairment,2018-12-14,Moderate,Hypertension,2021-06-28
+ST_P1036,78,Female,Frontotemporal Dementia,2019-08-09,Mild,,2021-03-04
+ST_P1037,78,Female,Vascular Dementia,2017-10-21,Severe,,2021-01-05
+ST_P1038,70,Male,Mild Cognitive Impairment,2019-04-27,Mild,Dyslipidemia,2021-05-05
+ST_P1039,89,Male,Frontotemporal Dementia,2019-07-29,Mild,,2021-06-04
+ST_P1040,73,Male,Lewy Body Dementia,2018-05-27,Moderate,,2021-04-05
+ST_P1041,66,Male,Frontotemporal Dementia,2019-09-09,Moderate,Hypertension,2021-01-12
+ST_P1042,84,Male,Alzheimer's Disease,2017-07-22,Severe,,2021-04-16
+ST_P1043,72,Male,Vascular Dementia,2019-05-27,Mild,,2021-02-02
+ST_P1044,74,Male,Lewy Body Dementia,2017-04-29,Moderate,,2021-04-27
+ST_P1045,72,Male,Vascular Dementia,2020-05-15,Mild,Depression; Osteoarthritis,2021-02-13
+ST_P1046,79,Female,Vascular Dementia,2019-04-04,Mild,Hypertension; Dyslipidemia,2021-05-15
+ST_P1047,70,Male,Lewy Body Dementia,2019-03-27,Moderate,Hypertension,2021-01-26
+ST_P1048,67,Female,Frontotemporal Dementia,2019-04-10,Mild,,2021-01-16
+ST_P1049,81,Female,Vascular Dementia,2019-07-08,Severe,Type 2 Diabetes,2021-03-10
+ST_P1050,62,Female,Vascular Dementia,2018-03-04,Mild,Dyslipidemia; Type 2 Diabetes,2021-06-24
+ST_P1051,75,Male,Lewy Body Dementia,2017-11-23,Mild,,2021-04-22
+ST_P1052,69,Female,Frontotemporal Dementia,2019-01-27,Mild,Osteoarthritis,2021-04-21
+ST_P1053,84,Male,Frontotemporal Dementia,2020-01-14,Severe,,2021-05-02
+ST_P1054,69,Female,Mild Cognitive Impairment,2019-06-28,Severe,,2021-03-11
+ST_P1055,68,Female,Mild Cognitive Impairment,2017-09-06,Severe,,2021-04-24
+ST_P1056,81,Male,Lewy Body Dementia,2017-10-23,Moderate,Osteoarthritis,2021-04-23
+ST_P1057,66,Female,Lewy Body Dementia,2019-06-13,Mild,Hypertension; Depression,2021-01-01
+ST_P1058,86,Female,Alzheimer's Disease,2018-02-15,Moderate,,2021-04-02
+ST_P1059,88,Male,Vascular Dementia,2019-09-14,Mild,Depression,2021-01-09
+ST_P1060,76,Male,Alzheimer's Disease,2019-09-19,Mild,,2021-05-13
+ST_P1061,83,Female,Mild Cognitive Impairment,2020-08-26,Moderate,,2021-04-02
+ST_P1062,86,Female,Vascular Dementia,2019-09-17,Mild,,2021-04-03
+ST_P1063,79,Female,Lewy Body Dementia,2019-11-19,Moderate,,2021-01-03
+ST_P1064,76,Male,Vascular Dementia,2020-05-01,Mild,Dyslipidemia; Type 2 Diabetes,2021-06-11
+ST_P1065,91,Male,Frontotemporal Dementia,2019-05-05,Severe,,2021-03-11
+ST_P1066,76,Male,Alzheimer's Disease,2019-02-01,Mild,,2021-03-26
+ST_P1067,81,Female,Mild Cognitive Impairment,2020-05-26,Mild,Hypertension; Osteoarthritis,2021-05-12
+ST_P1068,88,Female,Frontotemporal Dementia,2019-12-23,Severe,,2021-01-02
+ST_P1069,88,Female,Frontotemporal Dementia,2018-09-27,Severe,Depression,2021-01-09
+ST_P1070,91,Female,Lewy Body Dementia,2018-09-26,Mild,,2021-06-29
+ST_P1071,65,Female,Frontotemporal Dementia,2018-03-03,Moderate,Hypertension; Osteoarthritis,2021-04-02
+ST_P1072,81,Male,Lewy Body Dementia,2018-04-30,Severe,,2021-03-17
+ST_P1073,67,Female,Frontotemporal Dementia,2018-07-24,Severe,Type 2 Diabetes,2021-05-03
+ST_P1074,70,Female,Frontotemporal Dementia,2017-07-15,Severe,,2021-06-04
+ST_P1075,76,Female,Lewy Body Dementia,2018-12-16,Moderate,,2021-02-11
+ST_P1076,83,Male,Frontotemporal Dementia,2020-02-01,Moderate,,2021-03-02
+ST_P1077,91,Female,Alzheimer's Disease,2017-04-04,Moderate,Dyslipidemia; Depression,2021-01-25
+ST_P1078,79,Female,Alzheimer's Disease,2019-04-23,Severe,Depression,2021-04-04
+ST_P1079,81,Female,Alzheimer's Disease,2018-08-27,Mild,Type 2 Diabetes,2021-01-08
+ST_P1080,66,Male,Mild Cognitive Impairment,2018-06-09,Moderate,,2021-03-31
+ST_P1081,81,Male,Alzheimer's Disease,2017-06-21,Severe,Depression,2021-06-22
+ST_P1082,79,Female,Frontotemporal Dementia,2020-08-29,Moderate,Depression,2021-06-09
+ST_P1083,69,Female,Frontotemporal Dementia,2020-01-17,Severe,,2021-02-04
+ST_P1084,85,Female,Frontotemporal Dementia,2020-02-26,Severe,Hypertension,2021-06-01
+ST_P1085,70,Female,Vascular Dementia,2019-11-21,Mild,Hypertension; Type 2 Diabetes,2021-05-07
+ST_P1086,78,Male,Mild Cognitive Impairment,2019-07-13,Mild,,2021-06-16
+ST_P1087,87,Male,Vascular Dementia,2018-05-13,Moderate,Osteoarthritis; Hypertension,2021-05-01
+ST_P1088,72,Male,Lewy Body Dementia,2019-04-03,Mild,Hypertension; Osteoarthritis,2021-03-12
+ST_P1089,85,Female,Lewy Body Dementia,2019-07-26,Mild,,2021-03-02
+ST_P1090,85,Male,Alzheimer's Disease,2020-03-26,Severe,Dyslipidemia; Depression,2021-01-10
+ST_P1091,91,Male,Mild Cognitive Impairment,2017-07-05,Severe,Depression; Osteoarthritis,2021-04-10
+ST_P1092,80,Male,Mild Cognitive Impairment,2018-02-09,Mild,,2021-04-24
+ST_P1093,68,Female,Vascular Dementia,2018-12-28,Severe,Osteoarthritis; Type 2 Diabetes,2021-01-10
+ST_P1094,83,Male,Lewy Body Dementia,2018-05-25,Mild,,2021-01-01
+ST_P1095,78,Male,Mild Cognitive Impairment,2018-11-09,Moderate,,2021-05-19
+ST_P1096,78,Male,Frontotemporal Dementia,2018-02-07,Moderate,,2021-04-08
+ST_P1097,86,Male,Frontotemporal Dementia,2018-03-24,Moderate,,2021-06-18
+ST_P1098,83,Male,Frontotemporal Dementia,2018-04-04,Moderate,Dyslipidemia; Type 2 Diabetes,2021-02-10
+ST_P1099,80,Male,Frontotemporal Dementia,2018-09-24,Moderate,Depression; Hypertension,2021-01-23
+ST_P1100,79,Male,Lewy Body Dementia,2019-10-25,Mild,Hypertension; Depression,2021-06-27
+ST_P1101,72,Female,Vascular Dementia,2018-03-06,Severe,,2021-06-11
+ST_P1102,69,Female,Lewy Body Dementia,2017-10-10,Severe,,2021-05-01
+ST_P1103,74,Female,Frontotemporal Dementia,2018-05-21,Mild,Depression; Osteoarthritis,2021-06-23
+ST_P1104,71,Male,Alzheimer's Disease,2018-10-01,Mild,,2021-02-06
+ST_P1105,70,Male,Frontotemporal Dementia,2017-09-03,Mild,Dyslipidemia,2021-02-16
+ST_P1106,75,Female,Mild Cognitive Impairment,2018-03-20,Mild,,2021-05-12
+ST_P1107,84,Male,Lewy Body Dementia,2019-11-05,Mild,,2021-03-13
+ST_P1108,67,Female,Alzheimer's Disease,2017-01-18,Moderate,Depression; Osteoarthritis,2021-01-22
+ST_P1109,78,Female,Alzheimer's Disease,2018-06-08,Moderate,Type 2 Diabetes; Hypertension,2021-02-18
+ST_P1110,73,Female,Mild Cognitive Impairment,2019-08-30,Severe,,2021-04-16
+ST_P1111,66,Male,Lewy Body Dementia,2019-02-28,Severe,Depression; Dyslipidemia,2021-06-13
+ST_P1112,71,Female,Lewy Body Dementia,2018-03-02,Mild,,2021-06-26
+ST_P1113,85,Female,Mild Cognitive Impairment,2019-02-21,Moderate,Depression; Osteoarthritis,2021-06-03
+ST_P1114,80,Female,Vascular Dementia,2018-05-27,Severe,,2021-04-06
+ST_P1115,77,Male,Alzheimer's Disease,2018-06-09,Severe,Hypertension,2021-03-14
+ST_P1116,87,Male,Alzheimer's Disease,2018-04-27,Severe,,2021-05-12
+ST_P1117,77,Male,Mild Cognitive Impairment,2018-04-04,Severe,Hypertension; Depression,2021-01-10
+ST_P1118,76,Male,Alzheimer's Disease,2020-01-23,Moderate,,2021-02-04
+ST_P1119,80,Male,Lewy Body Dementia,2017-09-11,Moderate,,2021-05-10
+ST_P1120,72,Female,Frontotemporal Dementia,2019-10-22,Mild,,2021-02-15
+ST_P1121,75,Female,Lewy Body Dementia,2020-05-08,Severe,Dyslipidemia; Type 2 Diabetes,2021-04-08
+ST_P1122,77,Female,Frontotemporal Dementia,2017-03-04,Moderate,,2021-04-01
+ST_P1123,80,Female,Vascular Dementia,2017-08-11,Severe,Type 2 Diabetes; Dyslipidemia,2021-05-23
+ST_P1124,73,Male,Lewy Body Dementia,2019-12-04,Severe,,2021-02-23
+ST_P1125,77,Female,Frontotemporal Dementia,2019-02-20,Severe,Osteoarthritis,2021-04-20
+ST_P1126,78,Male,Vascular Dementia,2018-01-02,Severe,Osteoarthritis,2021-04-26
+ST_P1127,72,Male,Mild Cognitive Impairment,2019-09-11,Moderate,Osteoarthritis,2021-04-05
+ST_P1128,71,Male,Lewy Body Dementia,2017-11-06,Mild,Type 2 Diabetes,2021-03-27
+ST_P1129,58,Male,Alzheimer's Disease,2017-10-30,Moderate,Type 2 Diabetes,2021-05-20
+ST_P1130,66,Female,Lewy Body Dementia,2018-09-22,Mild,,2021-02-01
+ST_P1131,72,Female,Alzheimer's Disease,2020-05-28,Severe,,2021-01-10
+ST_P1132,77,Male,Vascular Dementia,2019-05-09,Severe,,2021-03-07
+ST_P1133,74,Male,Frontotemporal Dementia,2018-03-23,Moderate,Hypertension; Depression,2021-01-08
+ST_P1134,71,Female,Vascular Dementia,2019-06-25,Mild,,2021-01-10
+ST_P1135,73,Male,Mild Cognitive Impairment,2019-12-09,Mild,Osteoarthritis,2021-01-11
+ST_P1136,82,Female,Frontotemporal Dementia,2017-07-29,Mild,Osteoarthritis,2021-04-02
+ST_P1137,76,Male,Alzheimer's Disease,2018-12-12,Moderate,Dyslipidemia,2021-01-19
+ST_P1138,65,Male,Mild Cognitive Impairment,2020-04-10,Mild,,2021-04-08
+ST_P1139,73,Female,Lewy Body Dementia,2018-07-28,Severe,Depression,2021-03-07
+ST_P1140,65,Female,Alzheimer's Disease,2020-08-23,Moderate,Osteoarthritis; Hypertension,2021-04-13
+ST_P1141,83,Male,Mild Cognitive Impairment,2020-08-05,Moderate,Depression; Dyslipidemia,2021-03-22
+ST_P1142,70,Male,Mild Cognitive Impairment,2017-08-26,Severe,Hypertension,2021-06-04
+ST_P1143,67,Female,Vascular Dementia,2020-07-25,Moderate,Hypertension,2021-03-12
+ST_P1144,73,Female,Vascular Dementia,2017-09-22,Severe,Type 2 Diabetes,2021-03-31
+ST_P1145,78,Male,Alzheimer's Disease,2017-08-29,Moderate,,2021-06-29
+ST_P1146,77,Female,Alzheimer's Disease,2017-07-07,Severe,,2021-01-29
+ST_P1147,79,Female,Lewy Body Dementia,2020-07-04,Severe,,2021-03-14
+ST_P1148,63,Female,Mild Cognitive Impairment,2017-04-25,Mild,,2021-01-07
+ST_P1149,72,Female,Alzheimer's Disease,2017-10-31,Severe,Type 2 Diabetes; Dyslipidemia,2021-03-11
+ST_P1150,70,Male,Alzheimer's Disease,2018-11-25,Mild,Type 2 Diabetes; Depression,2021-05-04
+ST_P1151,79,Male,Frontotemporal Dementia,2018-08-29,Severe,,2021-03-11
+ST_P1152,77,Female,Mild Cognitive Impairment,2018-09-20,Moderate,Osteoarthritis,2021-04-11
+ST_P1153,77,Female,Vascular Dementia,2018-08-24,Mild,,2021-04-27
+ST_P1154,75,Female,Alzheimer's Disease,2019-03-15,Severe,,2021-03-03
+ST_P1155,75,Female,Mild Cognitive Impairment,2019-03-17,Mild,,2021-05-23
+ST_P1156,79,Female,Frontotemporal Dementia,2017-09-29,Mild,Type 2 Diabetes,2021-05-26
+ST_P1157,74,Male,Vascular Dementia,2018-10-10,Mild,Osteoarthritis,2021-03-29
+ST_P1158,64,Female,Frontotemporal Dementia,2019-12-28,Mild,,2021-06-25
+ST_P1159,76,Female,Vascular Dementia,2020-10-12,Moderate,Hypertension; Type 2 Diabetes,2021-05-29
+ST_P1160,74,Female,Frontotemporal Dementia,2020-06-20,Severe,,2021-05-08
+ST_P1161,79,Female,Lewy Body Dementia,2020-07-30,Moderate,,2021-06-25
+ST_P1162,72,Female,Alzheimer's Disease,2017-11-18,Severe,Dyslipidemia,2021-02-10
+ST_P1163,60,Female,Frontotemporal Dementia,2018-03-30,Mild,,2021-06-18
+ST_P1164,65,Male,Vascular Dementia,2020-06-02,Moderate,Depression,2021-04-14
+ST_P1165,67,Female,Frontotemporal Dementia,2019-11-09,Moderate,Depression; Type 2 Diabetes,2021-06-07
+ST_P1166,71,Male,Mild Cognitive Impairment,2020-04-11,Mild,,2021-01-08
+ST_P1167,66,Male,Alzheimer's Disease,2018-07-17,Mild,Hypertension,2021-06-15
+ST_P1168,75,Female,Alzheimer's Disease,2018-03-03,Moderate,,2021-05-15
+ST_P1169,75,Female,Alzheimer's Disease,2019-10-22,Mild,Type 2 Diabetes,2021-06-27
+ST_P1170,74,Male,Mild Cognitive Impairment,2017-04-08,Mild,Type 2 Diabetes,2021-01-09
+ST_P1171,71,Female,Mild Cognitive Impairment,2017-07-09,Severe,,2021-03-11
+ST_P1172,65,Female,Mild Cognitive Impairment,2017-03-24,Moderate,,2021-02-17
+ST_P1173,78,Male,Mild Cognitive Impairment,2017-05-13,Mild,Hypertension,2021-02-27
+ST_P1174,74,Female,Lewy Body Dementia,2018-11-18,Mild,,2021-01-02
+ST_P1175,81,Female,Frontotemporal Dementia,2018-09-01,Mild,,2021-03-23
+ST_P1176,82,Female,Vascular Dementia,2020-04-03,Severe,Osteoarthritis; Depression,2021-04-28
+ST_P1177,80,Female,Lewy Body Dementia,2017-12-15,Mild,Type 2 Diabetes,2021-03-20
+ST_P1178,90,Male,Mild Cognitive Impairment,2019-06-14,Moderate,,2021-05-18
+ST_P1179,70,Male,Vascular Dementia,2018-05-10,Mild,Dyslipidemia,2021-03-06
+ST_P1180,67,Female,Alzheimer's Disease,2018-07-17,Severe,Hypertension,2021-05-13
+ST_P1181,76,Male,Vascular Dementia,2020-04-09,Moderate,Depression,2021-01-15
+ST_P1182,79,Female,Frontotemporal Dementia,2017-05-03,Moderate,,2021-01-27
+ST_P1183,70,Male,Mild Cognitive Impairment,2019-01-23,Severe,Hypertension; Depression,2021-01-09
+ST_P1184,74,Female,Mild Cognitive Impairment,2017-09-05,Severe,Depression,2021-01-23
+ST_P1185,67,Male,Frontotemporal Dementia,2018-01-30,Moderate,Dyslipidemia; Type 2 Diabetes,2021-06-21
+ST_P1186,81,Male,Vascular Dementia,2020-03-18,Mild,Hypertension,2021-02-05
+ST_P1187,77,Male,Lewy Body Dementia,2019-01-01,Mild,Depression,2021-06-28
+ST_P1188,80,Female,Frontotemporal Dementia,2017-08-30,Severe,Depression; Osteoarthritis,2021-03-25
+ST_P1189,84,Male,Mild Cognitive Impairment,2018-04-25,Mild,,2021-05-21
+ST_P1190,80,Female,Alzheimer's Disease,2017-10-20,Mild,,2021-01-19
+ST_P1191,65,Male,Mild Cognitive Impairment,2019-07-08,Severe,,2021-06-14
+ST_P1192,75,Female,Alzheimer's Disease,2018-04-15,Moderate,Type 2 Diabetes; Osteoarthritis,2021-04-23
+ST_P1193,84,Male,Lewy Body Dementia,2019-05-29,Moderate,,2021-04-22
+ST_P1194,71,Female,Mild Cognitive Impairment,2019-10-10,Severe,,2021-02-18
+ST_P1195,71,Female,Alzheimer's Disease,2020-07-19,Mild,Depression,2021-05-18
+ST_P1196,66,Male,Lewy Body Dementia,2018-12-16,Severe,Type 2 Diabetes,2021-01-13
+ST_P1197,90,Male,Mild Cognitive Impairment,2020-01-22,Severe,,2021-03-03
+ST_P1198,78,Female,Frontotemporal Dementia,2018-11-22,Mild,,2021-04-13
+ST_P1199,71,Male,Vascular Dementia,2018-02-14,Moderate,,2021-03-01
+ST_P1200,66,Male,Lewy Body Dementia,2019-07-19,Mild,Dyslipidemia; Hypertension,2021-02-11

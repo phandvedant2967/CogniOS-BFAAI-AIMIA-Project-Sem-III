@@ -1,0 +1,304 @@
+{
+  "evaluation_split": "dev",
+  "cohort_size": 600,
+  "frozen_xgboost_dev": {
+    "model_name": "frozen_xgboost_dev",
+    "accuracy": 0.4266666666666667,
+    "macro_precision": 0.42129715277060986,
+    "macro_recall": 0.4266666666666667,
+    "macro_f1": 0.41312716164571545,
+    "weighted_f1": 0.41312716164571545,
+    "per_class": {
+      "medication_associated": {
+        "precision": 0.39655172413793105,
+        "recall": 0.30666666666666664,
+        "f1": 0.3458646616541353,
+        "support": 150
+      },
+      "disease_progression": {
+        "precision": 0.5534883720930233,
+        "recall": 0.7933333333333333,
+        "f1": 0.6520547945205479,
+        "support": 150
+      },
+      "other_cause": {
+        "precision": 0.48514851485148514,
+        "recall": 0.32666666666666666,
+        "f1": 0.3904382470119522,
+        "support": 150
+      },
+      "uncertain": {
+        "precision": 0.25,
+        "recall": 0.28,
+        "f1": 0.2641509433962264,
+        "support": 150
+      }
+    },
+    "confusion_matrix": {
+      "medication_associated": {
+        "medication_associated": 46,
+        "disease_progression": 25,
+        "other_cause": 19,
+        "uncertain": 60
+      },
+      "disease_progression": {
+        "medication_associated": 1,
+        "disease_progression": 119,
+        "other_cause": 10,
+        "uncertain": 20
+      },
+      "other_cause": {
+        "medication_associated": 41,
+        "disease_progression": 14,
+        "other_cause": 49,
+        "uncertain": 46
+      },
+      "uncertain": {
+        "medication_associated": 28,
+        "disease_progression": 57,
+        "other_cause": 23,
+        "uncertain": 42
+      }
+    },
+    "roc_auc_ovr": {
+      "medication_associated": 0.6532,
+      "disease_progression": 0.8588,
+      "other_cause": 0.7702,
+      "uncertain": 0.503
+    },
+    "pr_auc": {
+      "medication_associated": 0.3674,
+      "disease_progression": 0.655,
+      "other_cause": 0.4962,
+      "uncertain": 0.2536
+    },
+    "macro_roc_auc": 0.6963
+  },
+  "frozen_cnn_gru_dev": {
+    "model_name": "frozen_cnn_gru_dev",
+    "accuracy": 0.37166666666666665,
+    "macro_precision": 0.3953480208006185,
+    "macro_recall": 0.3716666666666667,
+    "macro_f1": 0.3781676112488444,
+    "weighted_f1": 0.3781676112488444,
+    "per_class": {
+      "medication_associated": {
+        "precision": 0.3068181818181818,
+        "recall": 0.36,
+        "f1": 0.3312883435582822,
+        "support": 150
+      },
+      "disease_progression": {
+        "precision": 0.3465909090909091,
+        "recall": 0.4066666666666667,
+        "f1": 0.37423312883435583,
+        "support": 150
+      },
+      "other_cause": {
+        "precision": 0.660377358490566,
+        "recall": 0.4666666666666667,
+        "f1": 0.546875,
+        "support": 150
+      },
+      "uncertain": {
+        "precision": 0.2676056338028169,
+        "recall": 0.25333333333333335,
+        "f1": 0.2602739726027397,
+        "support": 150
+      }
+    },
+    "confusion_matrix": {
+      "medication_associated": {
+        "medication_associated": 54,
+        "disease_progression": 43,
+        "other_cause": 16,
+        "uncertain": 37
+      },
+      "disease_progression": {
+        "medication_associated": 34,
+        "disease_progression": 61,
+        "other_cause": 15,
+        "uncertain": 40
+      },
+      "other_cause": {
+        "medication_associated": 34,
+        "disease_progression": 19,
+        "other_cause": 70,
+        "uncertain": 27
+      },
+      "uncertain": {
+        "medication_associated": 54,
+        "disease_progression": 53,
+        "other_cause": 5,
+        "uncertain": 38
+      }
+    },
+    "roc_auc_ovr": {
+      "medication_associated": 0.5678,
+      "disease_progression": 0.6387,
+      "other_cause": 0.7367,
+      "uncertain": 0.5322
+    },
+    "pr_auc": {
+      "medication_associated": 0.2937,
+      "disease_progression": 0.3673,
+      "other_cause": 0.5943,
+      "uncertain": 0.3085
+    },
+    "macro_roc_auc": 0.6189
+  },
+  "v2_test_baseline": {
+    "xgboost": {
+      "model_name": "xgboost_TEST",
+      "accuracy": 0.9233983286908078,
+      "macro_precision": 0.918585905762848,
+      "macro_recall": 0.9150932119190075,
+      "macro_f1": 0.9165794830272933,
+      "weighted_f1": 0.9230976826345044,
+      "per_class": {
+        "medication_associated": {
+          "precision": 0.9292452830188679,
+          "recall": 0.9036697247706422,
+          "f1": 0.9162790697674419,
+          "support": 218
+        },
+        "disease_progression": {
+          "precision": 0.9541284403669725,
+          "recall": 0.9765258215962441,
+          "f1": 0.9651972157772621,
+          "support": 213
+        },
+        "other_cause": {
+          "precision": 0.8967391304347826,
+          "recall": 0.9269662921348315,
+          "f1": 0.9116022099447514,
+          "support": 178
+        },
+        "uncertain": {
+          "precision": 0.8942307692307693,
+          "recall": 0.8532110091743119,
+          "f1": 0.8732394366197183,
+          "support": 109
+        }
+      },
+      "confusion_matrix": {
+        "medication_associated": {
+          "medication_associated": 197,
+          "disease_progression": 1,
+          "other_cause": 16,
+          "uncertain": 4
+        },
+        "disease_progression": {
+          "medication_associated": 1,
+          "disease_progression": 208,
+          "other_cause": 0,
+          "uncertain": 4
+        },
+        "other_cause": {
+          "medication_associated": 10,
+          "disease_progression": 0,
+          "other_cause": 165,
+          "uncertain": 3
+        },
+        "uncertain": {
+          "medication_associated": 4,
+          "disease_progression": 9,
+          "other_cause": 3,
+          "uncertain": 93
+        }
+      },
+      "roc_auc_ovr": {
+        "medication_associated": 0.9891,
+        "disease_progression": 0.9983,
+        "other_cause": 0.9939,
+        "uncertain": 0.9916
+      },
+      "pr_auc": {
+        "medication_associated": 0.9778,
+        "disease_progression": 0.9963,
+        "other_cause": 0.9827,
+        "uncertain": 0.9603
+      },
+      "macro_roc_auc": 0.9932
+    },
+    "cnn_gru": {
+      "model_name": "longitudinal_cnn_gru",
+      "accuracy": 0.9972144846796658,
+      "macro_precision": 0.9977272727272728,
+      "macro_recall": 0.997191011235955,
+      "macro_f1": 0.9974460181100534,
+      "weighted_f1": 0.9972129756163391,
+      "per_class": {
+        "medication_associated": {
+          "precision": 0.990909090909091,
+          "recall": 1.0,
+          "f1": 0.9954337899543378,
+          "support": 218
+        },
+        "disease_progression": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 213
+        },
+        "other_cause": {
+          "precision": 1.0,
+          "recall": 0.9887640449438202,
+          "f1": 0.9943502824858758,
+          "support": 178
+        },
+        "uncertain": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 109
+        }
+      },
+      "confusion_matrix": {
+        "medication_associated": {
+          "medication_associated": 218,
+          "disease_progression": 0,
+          "other_cause": 0,
+          "uncertain": 0
+        },
+        "disease_progression": {
+          "medication_associated": 0,
+          "disease_progression": 213,
+          "other_cause": 0,
+          "uncertain": 0
+        },
+        "other_cause": {
+          "medication_associated": 2,
+          "disease_progression": 0,
+          "other_cause": 176,
+          "uncertain": 0
+        },
+        "uncertain": {
+          "medication_associated": 0,
+          "disease_progression": 0,
+          "other_cause": 0,
+          "uncertain": 109
+        }
+      },
+      "roc_auc_ovr": {
+        "medication_associated": 0.9998,
+        "disease_progression": 1.0,
+        "other_cause": 0.9998,
+        "uncertain": 1.0
+      },
+      "pr_auc": {
+        "medication_associated": 0.9995,
+        "disease_progression": 1.0,
+        "other_cause": 0.9995,
+        "uncertain": 1.0
+      },
+      "macro_roc_auc": 0.9999,
+      "best_epoch": 29,
+      "val_macro_f1_best": 0.9959
+    }
+  },
+  "deltas": {
+    "xgboost_macro_f1_drop": -0.5035,
+    "cnn_gru_macro_f1_drop": -0.6193
+  }
+}

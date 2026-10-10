@@ -1,0 +1,150 @@
+feature,importance
+feat_ev_post_any_cog_impact,0.065098055
+feat_attention_problem_post_rate,0.05385802
+feat_behavioral_change_pre_rate,0.05346968
+feat_attention_problem_rate_delta,0.046305645
+feat_confusion_rate_delta,0.042017072
+feat_attention_problem_pre_rate,0.039653745
+feat_ev_post_max_severity,0.031523548
+feat_behavioral_change_post_rate,0.031051192
+feat_confusion_post_rate,0.025464855
+feat_executive_delta_late,0.023214407
+feat_attention_pre_slope30,0.022521582
+feat_memory_pre_slope30,0.02119651
+feat_attention_delta_early,0.01819275
+feat_memory_delta_late,0.015494608
+feat_executive_pre_slope30,0.014542576
+feat_ev_nearest_category_Missing,0.014445101
+feat_memory_loss_pre_rate,0.014037088
+feat_memory_loss_post_rate,0.013943786
+feat_competing_med_change_max_cogrisk,0.013843244
+feat_behavioral_change_rate_delta,0.013087144
+feat_mmse_delta,0.0128024435
+feat_attention_delta,0.011790795
+feat_confusion_pre_rate,0.010925835
+feat_memory_post_slope30,0.010798328
+feat_attention_post_slope30,0.010609378
+feat_mood_delta,0.010367544
+feat_memory_delta,0.010192705
+feat_other_active_cogrisk_max,0.009879014
+feat_other_med_change_days_after,0.009713647
+feat_executive_delta,0.00953784
+feat_executive_post_slope30,0.009500941
+feat_memory_slope_change,0.0083493665
+feat_attention_delta_late,0.008055244
+feat_memory_delta_early,0.0079997815
+feat_ev_post_days_to_first,0.0076257926
+feat_ev_window_max_duration_days,0.006729313
+feat_executive_delta_early,0.006194237
+feat_mood_delta_late,0.006016707
+feat_mmse_delta_late,0.005868834
+feat_ev_nearest_category_Hospitalization,0.00571345
+feat_executive_slope_change,0.005679304
+feat_mmse_post_slope30,0.0056321737
+feat_ev_nearest_category_Milestone,0.005315893
+feat_attention_slope_change,0.005302528
+feat_other_active_cogrisk_sum,0.0051689646
+feat_mmse_delta_early,0.005060818
+feat_days_last_pre_to_anchor,0.004954677
+feat_memory_loss_rate_delta,0.004913162
+feat_ev_has_procedure_hospital,0.004814121
+feat_anchor_is_dose_change,0.004762073
+feat_other_active_interaction_sum,0.0044742324
+feat_mmse_excess_decline,0.004254677
+feat_days_on_drug_at_anchor,0.0041783433
+feat_mmse_slope_change,0.004138268
+feat_mmse_pre_last,0.004070348
+feat_mmse_post_mean,0.004012544
+feat_ev_post_any_hospitalization,0.0038835492
+feat_mmse_pre_slope30,0.0038792882
+feat_ev_pre_max_severity,0.0036626922
+feat_comorb_dyslipidemia,0.003614086
+feat_later_dose_change_in_post_window,0.0035453008
+feat_mood_delta_early,0.0035278273
+feat_memory_pre_last,0.0035212464
+feat_disease_duration_years,0.003509143
+feat_days_anchor_to_first_post,0.003501571
+feat_mmse_days_to_first_decline,0.0033524928
+feat_knowledge_concordant_decline,0.0033283415
+feat_mood_pre_slope30,0.00332366
+feat_ev_nearest_category_Infection,0.0033170534
+feat_executive_pre_last,0.0032702466
+feat_attention_pre_last,0.0032581775
+feat_executive_post_mean,0.0032321962
+feat_ev_nearest_abs_days,0.0031325168
+feat_drug_attention_potential,0.0030945644
+feat_other_med_change_days_before,0.0030408707
+feat_ev_has_disease_milestone,0.0030120406
+feat_days_anchor_to_later_dose_change,0.003003614
+feat_ev_nearest_category_Vascular,0.0029832176
+feat_mood_slope_change,0.002976729
+feat_memory_post_mean,0.0029752413
+feat_primary_diagnosis_Vascular Dementia,0.00289267
+feat_mood_post_slope30,0.0028507444
+feat_anchor_adherence_Good,0.0028364474
+feat_drug_interaction_risk_index,0.0027896834
+feat_ev_has_vascular_cardio,0.002721446
+feat_drug_sedation_index,0.0026097633
+feat_comorb_osteoarthritis,0.0025817514
+feat_ev_pre_any_cog_impact,0.0025772413
+feat_attention_post_mean,0.002549366
+feat_primary_diagnosis_Lewy Body Dementia,0.0024711408
+feat_ev_has_psych_sleep_pain,0.0023736034
+feat_primary_diagnosis_Frontotemporal Dementia,0.0022863061
+feat_mood_post_mean,0.0022611609
+feat_ev_pre_days_since_last,0.0022597327
+feat_ev_has_infection,0.0022107537
+feat_age,0.0021721444
+feat_anchor_adherence_Moderate,0.0021522853
+feat_other_active_sedation_sum,0.0021340067
+feat_drug_cognitive_relevance_Low direct cognitive relevance,0.002061073
+feat_drug_evidence_category_Established pharmacological profile,0.0020407063
+feat_comorb_hypertension,0.002002733
+feat_drug_cognitive_relevance_Expected cognitive-targeting therapy,0.0019875234
+feat_ev_nearest_category_Psychiatric,0.001975405
+feat_drug_confusion_potential,0.0019474436
+feat_drug_cognitive_relevance_Potential cognitive/attention relevance,0.0019163701
+feat_mood_pre_last,0.0019148313
+feat_comorb_ckd,0.0018458337
+feat_anchor_dose_mg,0.0018252793
+feat_drug_cognitive_relevance_Potential cognitive/behavioral relevance,0.0018006287
+feat_ev_nearest_category_Metabolic,0.0017773783
+feat_drug_cognitive_relevance_Generally low direct cognitive relevance,0.0016682121
+feat_drug_anticholinergic_burden,0.0015952355
+feat_disease_stage,0.0015321788
+feat_drug_interaction_risk,0.0015218816
+feat_primary_diagnosis_Alzheimer's Disease,0.0014911346
+feat_primary_diagnosis_Mild Cognitive Impairment,0.0014320243
+feat_other_active_any_cognitive_therapy,0.0013126597
+feat_ev_has_delirium,0.0013021753
+feat_drug_cognitive_risk_index,0.001299124
+feat_drug_cognitive_relevance_Potential behavioral relevance,0.001224421
+feat_ev_has_metabolic,0.0012018331
+feat_drug_evidence_category_Potential cognitive relevance,0.0011317726
+feat_comorb_atrial_fibrillation,0.0011041481
+feat_drug_evidence_category_Low direct cognitive relevance,0.0010289822
+feat_other_active_any_high_sedation,0.0010040937
+feat_ev_has_trauma,0.00087964686
+feat_ev_in_assessment_gap,0.00081574696
+feat_sex_Male,0.0006958017
+feat_other_active_anticholinergic_sum,0.0006135544
+feat_anchor_dose_rel_to_drug_median,0.0003828761
+feat_comorb_depression,0.00035343142
+feat_sex_Female,0.00024799057
+feat_drug_cognitive_relevance_Potential cognitive relevance,2.60357e-05
+feat_drug_memory_potential,0.0
+feat_dose_change_ratio,0.0
+feat_comorb_type_2_diabetes,0.0
+feat_days_anchor_to_stop,0.0
+feat_drug_sedation_potential,0.0
+feat_drug_anticholinergic_index,0.0
+feat_drug_mood_potential,0.0
+feat_mmse_change_after_stop,0.0
+feat_other_med_stop_days_after,0.0
+feat_other_active_any_high_anticholinergic,0.0
+feat_anchor_frequency_Once daily,0.0
+feat_drug_cognitive_relevance_Indirect cognitive relevance through metabolic effects,0.0
+feat_drug_cognitive_relevance_Potential neuropsychiatric relevance,0.0
+feat_stopped_in_post_window,0.0
+feat_ev_nearest_category_Trauma,0.0
+feat_ev_nearest_category_Delirium,0.0
