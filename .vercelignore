@@ -1,0 +1,48 @@
+# ── Versioned / intermediate datasets (not needed at runtime) ────────────────
+# The primary EHR database (data/ehr.db) and the ML inference database
+# (data/v4_2/ehr.db) ARE included. Everything else in data/ is dev-only.
+data/v2/
+data/v3/
+data/v4/
+data/v4_corrected/
+data/stress_test/
+data/processed/
+data/raw/
+
+# ── Old and baseline model artifacts (only v4_2 models are used at runtime) ──
+# ml/predict.py loads: v4_2_preprocessor.joblib, v4_2_xgboost.joblib,
+#                       v4_2_sequence_builder.joblib, v4_2_cnn_gru.pt
+# All other files in models/ are training experiments and are excluded.
+models/baseline_logistic_regression.pkl
+models/baseline_random_forest.pkl
+models/baseline_xgboost.pkl
+models/improved_cnn_gru.pt
+models/longitudinal_cnn_gru.pt
+models/preprocessing.pkl
+models/v3_cnn_gru.pt
+models/v3_preprocessor.joblib
+models/v3_xgboost.joblib
+
+# ── Development-only directories ─────────────────────────────────────────────
+scripts/
+tests/
+results/
+docs/
+
+# ── Python caches ─────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# ── Editor / OS artifacts ─────────────────────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ── Archives ──────────────────────────────────────────────────────────────────
+*.zip
+*.tar
+*.tar.gz
+*.gz
