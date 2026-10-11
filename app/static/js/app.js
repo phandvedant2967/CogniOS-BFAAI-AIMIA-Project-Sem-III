@@ -236,4 +236,13 @@
     if (e.target.id === "note") $("note-count").textContent = `${e.target.value.length} / ${L.NOTE_MAX}`;
   });
   ws.addEventListener("submit", (e) => { if (e.target.id === "review-form") { e.preventDefault(); submitReview(e.target); } });
+  // Auto-lookup default patient on load for demo
+  document.addEventListener('DOMContentLoaded', () => {
+    const defaultId = 'V4_2_P0001';
+    const input = document.getElementById('patient-id');
+    if (input) {
+      input.value = defaultId;
+      lookup(defaultId);
+    }
+  });
 })();

@@ -1,0 +1,7 @@
+{
+  "name": "cognios-stage9",
+  "version": "0.0.0",
+  "private": true,
+  "description": "CogniOS JS test runner — overrides parent package.json type so Node treats test files as CommonJS",
+  "type": "commonjs"
+}
