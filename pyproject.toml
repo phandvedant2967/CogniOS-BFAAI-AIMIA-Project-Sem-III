@@ -1,0 +1,14 @@
+[project]
+name = "cognios"
+version = "0.1.0"
+description = "CogniOS Flask application"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "flask",
+    "scikit-learn",
+    "xgboost",
+    "torch",
+    "pandas",
+    "numpy",
+    "joblib"
+]
